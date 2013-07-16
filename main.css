@@ -1,0 +1,78 @@
+a {
+   outline: 0;
+}
+
+body {
+  font-family: 'Carrois Gothic', sans-serif;
+  background-image:url('brillant/brillant.png');
+  margin: 0px;
+  min-height: 1000px;
+}
+
+#nav {
+  min-width: 1560px;
+  width: 100%;
+  height: 80px;
+  background: #e74c3c;
+  -webkit-box-shadow: -3px 0px 2px 3px #ccc;
+  box-shadow:         -3px 0px 2px 3px #ccc;
+}
+
+#title {
+  float:left;
+  margin: 20px 10px 0px 10px;
+  font-size: 42px;
+  color: #ffffff;
+}
+
+.category {
+  float: left;
+  margin: 30px 10px 0px 3%;
+}
+
+  .category a {
+    color: #ffffff;
+    font-size: 24px;
+    text-decoration: none;
+  }
+
+  .category a:hover {
+    color: #000000;
+    font-size: 24px;
+  }
+
+#holder {
+  margin: 0 auto;
+  width: 1560px;
+  overflow: auto;
+  border-style:solid;
+  border-color:red;
+}
+
+.format {
+  width: 116px;
+  float: left;
+  font-size: 10px;
+  margin: 20px 15px 10px 15px;
+  padding: 0px 5px 0px 5px;
+  color: #000000;
+  -webkit-box-shadow: 0px 0px 10px 3px #ccc;
+  box-shadow:         0px 0px 10px 3px #ccc;
+}
+
+  .format h1 {
+    font-size: 17px;
+    color:#2980b9;
+  }
+
+  .format a {
+  font-size: 12px;
+  color:#2980b9;
+  text-decoration: none;
+  }
+
+  .format a:visited {
+  color:#426A9E;
+  }
+
+
