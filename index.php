@@ -8,13 +8,13 @@
 <body>
 <div id="nav">
 	<bold id="title">Rainbow Reader</bold>
-	<div class="category" id="news"><a href="index.php#current=news">News</a></div>
-	<div class="category" id="sports"><a href="index.php#current=sports">Sports</a></div>
-	<div class="category" id="tech"><a href="index.php#current=tech">Technology</a></div>
-	<div class="category" id="life"><a href="index.php#current=life">Life</a></div>
-	<div class="category" id="music"><a href="index.php#current=music">Music</a></div>
-	<div class="category" id="religion"><a href="index.php#current=religion">Religion</a></div>
-	<div class="category" id="biz"><a href="index.php#current=biz">Business</a></div>
+	<div class="category" id="news">News</div>
+	<div class="category" id="sports">Sports</div>
+	<div class="category" id="tech">Technology</div>
+	<div class="category" id="life">Life</div>
+	<div class="category" id="music">Music</div>
+	<div class="category" id="religion">Religion</div>
+	<div class="category" id="business">Business</div>
 </div>
 <div id="holder">
 </div>
@@ -23,15 +23,15 @@
 
 //Store all the feeds into a singular array
 
-var catagories = [news, sports, technology, life, music, religion, business];
+var categories = [news, sports, technology, life, music, religion, business];
 
 var tracker = 0;
 
 //Request Function handles the AJAX request
 
-function request(count){
+function request(count, show){
 
-var current = catagories[count]
+var current = categories[count]
 
 $.ajax({
         type: "POST",
@@ -39,8 +39,10 @@ $.ajax({
         data: {feed : JSON.stringify(current)},
         async: false,
         success: function(data) {
+          if (show == 1) {
             $("#holder").empty().hide();
             $("#holder").delay(800).fadeIn(400).append(data);
+          };
         }
     });
 }
@@ -56,7 +58,8 @@ $("body").keydown(function(e) {
   	else {
   		tracker -= 1
   	}
-  request(tracker)
+  request(tracker, 1)
+  cssmod();
   }
   else if(e.keyCode == 39) { // right
   	$("#holder").empty();
@@ -67,49 +70,126 @@ $("body").keydown(function(e) {
   	else {
   		tracker += 1
   	}
-  request(tracker)
+  request(tracker, 1)
+  cssmod();
   }
 });
 
 //Click Navigation Section
-$(".category").click(function(e) {
+$(".category").click(function() {
 
-  current = e.target.href.split("=");
+  current = this.id;
 
-if (current[1] == "news"){
-  tracker = 0;
-}
-if (current[1] == "sports"){
-  tracker = 1;
-}
-if (current[1] == "tech"){
-  tracker = 2;
-}
-if (current[1] == "life"){
-  tracker = 3;
-}
-if (current[1] == "music"){
-  tracker = 4;
-}
-if (current[1] == "religion"){
-  tracker = 5;
-}
-if (current[1] == "biz"){
-  tracker = 6;
-}
-  request(tracker);
+  match(current);
 });
+
+function match(word) {
+
+if (word == "news"){
+  tracker = 0;
+};
+if (word == "sports"){
+  tracker = 1;
+};
+if (word == "tech"){
+  tracker = 2;
+};
+if (word == "life"){
+  tracker = 3;
+};
+if (word == "music"){
+  tracker = 4;
+};
+if (word == "religion"){
+  tracker = 5;
+};
+if (word == "business"){
+  tracker = 6;
+};
+  request(tracker, 1);
+  cssmod();
+};
 
 //Initiate the page
 
-$(document).ready(request(tracker));
+$(document).ready(function () {
+
+starter = window.location.href.split("=");
+
+match(starter[1])
+
+reload();
+cssmod();
+
+});
 
 //Reload every 10 minutes
 setInterval(function(){
-	request(tracker)
-}, 600000);
+	reload();
+}, 60000);
+
+//Reload function regenerates the cache every 10 minutes
+
+function reload() {
+  for (var i=0;i<categories.length;i++) {
+    request(i, 0);
+  };
+};
 
 //CSS mods based on section
+
+
+function cssmod() {
+if (tracker == 0){
+  $(".format").width("116px");
+  $("#holder").width("1560px");  
+  $("#nav").css("background-color", "#e74c3c");
+//This to change the url to match the current section
+  window.location.replace("index.php#current=news");
+};
+if (tracker == 1){
+  $(".format").width("250px");
+  $("#holder").width("1160px");  
+  $("#nav").css("background-color", "#f39c12");
+
+  window.location.replace("index.php#current=sports");
+};
+if (tracker == 2){
+  $(".format").width("116px");
+  $("#holder").width("1560px");  
+  $("#nav").css("background-color", "#F1C319");
+
+  window.location.replace("index.php#current=tech");
+};
+if (tracker == 3){
+  $(".format").width("200px");
+  $("#holder").width("1440px");  
+  $("#nav").css("background-color", "#2ecc71");
+
+  window.location.replace("index.php#current=life");
+};
+if (tracker == 4){
+  $(".format").width("250px");
+  $("#holder").width("1160px");  
+  $("#nav").css("background-color", "#3498db");
+
+  window.location.replace("index.php#current=music");
+};
+if (tracker == 5){
+  $(".format").width("250px");
+  $("#holder").width("1160px");  
+  $("#nav").css("background-color", "#34495e");
+
+  window.location.replace("index.php#current=religion");
+};
+if (tracker == 6){
+  $(".format").width("180px");
+  $("#holder").width("1540px");  
+  $("#nav").css("background-color", "#8e44ad");
+
+  window.location.replace("index.php#current=business");
+};
+};
 
 </script>
 </body>

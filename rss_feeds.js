@@ -76,7 +76,7 @@ var technology = {
 
 var life = {
 	"Lifehacker":'http://feeds.gawker.com/lifehacker/full', 
-	"Hack a Day":'http://feeds.feedburner.com/realclearpolitics/qlMj',
+	"Hack a Day":'http://feeds2.feedburner.com/hackaday/LgoM',
 	"AoM": 'http://feeds.feedburner.com/TheArtOfManliness?format=xml',
  	"Curbly": 'http://feeds.curbly.com/c/35111/f/649129/index.rss',
     "USA Travel":'http://rssfeeds.usatoday.com/UsatodaycomTravel-TopStories',
@@ -96,6 +96,8 @@ var music = {
 var religion = {
 	"GCC":'http://thegospelcoalition.org/media/The_Gospel_Coalition.xml', 
 	"Boundless":'http://feeds.feedburner.com/boundlessline/blog?format=xml',
+    "Biologos": 'http://biologos.org/feed/blog-old',
+    "Desiring God": 'http://feeds.feedburner.com/DGBlog?format=xml'
 }
 
 var business = {

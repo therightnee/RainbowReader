@@ -21,7 +21,360 @@ a:4:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:3:"
 		
 		
 		
-	";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:4:{s:0:"";a:8:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:15:"FBSchedules.com";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:26:"http://www.fbschedules.com";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:62:"College Football Schedules, Pro Football Schedules and Tickets";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:13:"lastBuildDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Mon, 15 Jul 2013 18:13:02 +0000";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"language";a:1:{i:0;a:5:{s:4:"data";s:5:"en-US";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:9:"generator";a:1:{i:0;a:5:{s:4:"data";s:29:"http://wordpress.org/?v=3.4.1";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:5:"image";a:1:{i:0;a:6:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:3:{s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:27:"http://www.fbschedules.com/";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:3:"url";a:1:{i:0;a:5:{s:4:"data";s:50:"http://www.fbschedules.com/images/site/fbs-rss.gif";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:52:"FBSchedules.com - College and Pro Football Schedules";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}}s:4:"item";a:10:{i:0;a:6:{s:4:"data";s:89:"
+	";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:4:{s:0:"";a:8:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:15:"FBSchedules.com";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:26:"http://www.fbschedules.com";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:62:"College Football Schedules, Pro Football Schedules and Tickets";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:13:"lastBuildDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Tue, 16 Jul 2013 22:12:04 +0000";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"language";a:1:{i:0;a:5:{s:4:"data";s:5:"en-US";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:9:"generator";a:1:{i:0;a:5:{s:4:"data";s:29:"http://wordpress.org/?v=3.4.1";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:5:"image";a:1:{i:0;a:6:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:3:{s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:27:"http://www.fbschedules.com/";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:3:"url";a:1:{i:0;a:5:{s:4:"data";s:50:"http://www.fbschedules.com/images/site/fbs-rss.gif";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:52:"FBSchedules.com - College and Pro Football Schedules";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}}s:4:"item";a:10:{i:0;a:6:{s:4:"data";s:74:"
+		
+		
+		
+		
+		
+				
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+
+		
+		
+			
+			
+		
+		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:6:{s:0:"";a:7:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:84:"SEC Still Reviewing Future Football Scheduling Format; 2014 Schedule Still Not Ready";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:61:"http://feedproxy.google.com/~r/fbschedulescom/~3/E3aOXkqoDnY/";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:128:"http://www.fbschedules.com/2013/07/sec-still-reviewing-future-football-scheduling-format-2014-schedule-still-not-ready/#comments";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Tue, 16 Jul 2013 19:13:00 +0000";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:12:{i:0;a:5:{s:4:"data";s:21:"Future NCAA Schedules";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}i:1;a:5:{s:4:"data";s:4:"NCAA";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}i:2;a:5:{s:4:"data";s:3:"SEC";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}i:3;a:5:{s:4:"data";s:4:"2014";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}i:4;a:5:{s:4:"data";s:5:"eight";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}i:5;a:5:{s:4:"data";s:8:"football";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}i:6;a:5:{s:4:"data";s:6:"format";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}i:7;a:5:{s:4:"data";s:4:"game";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}i:8;a:5:{s:4:"data";s:4:"nine";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}i:9;a:5:{s:4:"data";s:8:"rotation";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}i:10;a:5:{s:4:"data";s:8:"schedule";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}i:11;a:5:{s:4:"data";s:10:"scheduling";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:35:"http://www.fbschedules.com/?p=17113";s:7:"attribs";a:1:{s:0:"";a:1:{s:11:"isPermaLink";s:5:"false";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:149:"The 2013 SEC Media Days kicked off today, and commissioner Mike Slive spoke briefly about the status of their future football scheduling discussions.";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:12:"Kevin Kelley";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:40:"http://purl.org/rss/1.0/modules/content/";a:1:{s:7:"encoded";a:1:{i:0;a:5:{s:4:"data";s:5638:"<p>The 2013 SEC Media Days kicked off today, and commissioner Mike Slive spoke <a href="http://www.secdigitalnetwork.com/Portals/3/SEC%20Website/football/MD13/Commissioner%20Slive.pdf" target="_blank">briefly</a> about the status of their future football scheduling discussions.</p>
+<p>&#8220;For those of you who were with us in Destin this past spring, you&#8217;ll recall we spent a lot of time talking about football scheduling. The end result was a decision to commit the conference to a review of our scheduling format in anticipation of the 2016 season. This review will include whether or not to play an eight- or nine-game conference schedule and whether or not to retain permanent non-divisional opponents.</p>
+<p>&#8220;In the meantime, until that review is complete, we will continue to schedule based on the current 6-1-1 format pending the results of that review.</p>
+<p>&#8220;As I said this spring, the simple goal of this review, although it is not simple to do, is to select the format that is in the long-term best interest of the conference as a whole.&#8221;</p>
+<p>At the SEC Spring meetings in Destin, Florida in May, Slive said that the conference would play an <a href="/2013/05/sec-play-8-game-football-schedule-2014-likely-2015/">8-game, 6-1-1 football schedule</a> in 2014 and 2015.</p>
+<p>&#8220;We’ll leave here with that format, but I think there’s going to be a lot of discussion at all levels about whether that format should continue indefinitely.&#8221;</p>
+<p>Under the 6-1-1 format, each team plays six intra-division games, one permanent cross-division game, and one rotating cross-division game. This format preserved the permanent cross-division rivalries such as Alabama-Tennessee and Georgia-Auburn.</p>
+<p>But some schools, such as LSU, prefer not to keep their permanent rival (Florida) in the issue of fairness. Ditching the permanent rivals would also allow teams to cycle through opposite division games more frequently.</p>
+<p>In addition, a nine-game conference schedule would also have cross-division games occurring more frequently. It would also possibly allow the permanent rivalries to remain intact.</p>
+<p>Both the nine-game schedule and permanent rival issues are being reviewed in preparation for the <a href="/2013/05/sec-espn-sec-network-digital-platform/">SEC Network</a>, which launches in August 2014, and the new <a href="/ncaa/college-football-playoff-schedule.php">College Football Playoff</a> after the conclusion of the 2014 regular-season.</p>
+<p><strong>2014 SEC Football Schedule</strong></p>
+<p>The long awaited and much anticipated 2014 SEC Football Schedule is still not out yet and it doesn&#8217;t appear that it will be released this week at Media Days.</p>
+<blockquote class="twitter-tweet" width="550"><p>2014 SEC football schedule not ready for release this week.</p>
+<p>&mdash; Cecil Hurt (@CecilHurt) <a href="https://twitter.com/CecilHurt/statuses/357183770002067457">July 16, 2013</a></p></blockquote>
+<p><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<blockquote class="twitter-tweet" width="550"><p>Larry Templeton told me the SEC is &quot;close&quot; to getting the 2014 football schedule finished, but it won&#39;t be this week.</p>
+<p>&mdash; bradlocke (@bradlocke) <a href="https://twitter.com/bradlocke/statuses/357216597938679808">July 16, 2013</a></p></blockquote>
+<p><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p>In June, Cecil Hurt reported that <a href="/2013/06/report-alabama-may-play-florida-in-2014/">Alabama would play Florida</a> in 2014. That game would likely be played in Tuscaloosa. Then in 2015, the Crimson Tide would play Georgia.</p>
+<p>Also last month, LSU athletic director Joe Alleva told The Advocate that the Tigers <a href="/2013/06/lsu-ad-alleva-tigers-wont-play-georgia-or-south-carolina-2014/">will not play</a> Georgia or South Carolina in 2014.</p>
+<p><strong>Early Season 2013 SEC Football TV Schedule</strong></p>
+<p>Earlier today, the SEC announced their early season <a href="/2013/07/sec-early-season-2013-football-tv-schedule/">2013 football TV schedule</a>. Overall, 37 games have been announced involving SEC teams for broadcast on ABC, CBS, ESPN Networks, FSN, SEC Network, and Pay-Per-View.</p>
+<div class="feedflare">
+<a href="http://feeds.feedburner.com/~ff/fbschedulescom?a=E3aOXkqoDnY:--FmrR6ABc4:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/fbschedulescom?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/fbschedulescom?a=E3aOXkqoDnY:--FmrR6ABc4:dnMXMwOfBR0"><img src="http://feeds.feedburner.com/~ff/fbschedulescom?d=dnMXMwOfBR0" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/fbschedulescom?a=E3aOXkqoDnY:--FmrR6ABc4:F7zBnMyn0Lo"><img src="http://feeds.feedburner.com/~ff/fbschedulescom?i=E3aOXkqoDnY:--FmrR6ABc4:F7zBnMyn0Lo" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/fbschedulescom?a=E3aOXkqoDnY:--FmrR6ABc4:V_sGLiPBpWU"><img src="http://feeds.feedburner.com/~ff/fbschedulescom?i=E3aOXkqoDnY:--FmrR6ABc4:V_sGLiPBpWU" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/fbschedulescom?a=E3aOXkqoDnY:--FmrR6ABc4:qj6IDK7rITs"><img src="http://feeds.feedburner.com/~ff/fbschedulescom?d=qj6IDK7rITs" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/fbschedulescom?a=E3aOXkqoDnY:--FmrR6ABc4:gIN9vFwOqvQ"><img src="http://feeds.feedburner.com/~ff/fbschedulescom?i=E3aOXkqoDnY:--FmrR6ABc4:gIN9vFwOqvQ" border="0"></img></a>
+</div><img src="http://feeds.feedburner.com/~r/fbschedulescom/~4/E3aOXkqoDnY" height="1" width="1"/>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:36:"http://wellformedweb.org/CommentAPI/";a:1:{s:10:"commentRss";a:1:{i:0;a:5:{s:4:"data";s:124:"http://www.fbschedules.com/2013/07/sec-still-reviewing-future-football-scheduling-format-2014-schedule-still-not-ready/feed/";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:38:"http://purl.org/rss/1.0/modules/slash/";a:1:{s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:1:"1";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:42:"http://rssnamespace.org/feedburner/ext/1.0";a:1:{s:8:"origLink";a:1:{i:0;a:5:{s:4:"data";s:119:"http://www.fbschedules.com/2013/07/sec-still-reviewing-future-football-scheduling-format-2014-schedule-still-not-ready/";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:1;a:6:{s:4:"data";s:107:"
+		
+		
+		
+		
+		
+				
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+
+		
+		
+			
+			
+		
+		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:6:{s:0:"";a:7:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:52:"SEC Announces Early Season 2013 Football TV Schedule";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:61:"http://feedproxy.google.com/~r/fbschedulescom/~3/cku95lDTm34/";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:87:"http://www.fbschedules.com/2013/07/sec-early-season-2013-football-tv-schedule/#comments";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Tue, 16 Jul 2013 17:28:32 +0000";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:23:{i:0;a:5:{s:4:"data";s:4:"NCAA";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}i:1;a:5:{s:4:"data";s:3:"SEC";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}i:2;a:5:{s:4:"data";s:11:"TV Schedule";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}i:3;a:5:{s:4:"data";s:4:"2013";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}i:4;a:5:{s:4:"data";s:7:"alabama";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}i:5;a:5:{s:4:"data";s:8:"arkansas";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}i:6;a:5:{s:4:"data";s:6:"auburn";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}i:7;a:5:{s:4:"data";s:5:"early";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}i:8;a:5:{s:4:"data";s:7:"florida";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}i:9;a:5:{s:4:"data";s:8:"football";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}i:10;a:5:{s:4:"data";s:7:"georgia";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}i:11;a:5:{s:4:"data";s:8:"kentucky";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}i:12;a:5:{s:4:"data";s:3:"lsu";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}i:13;a:5:{s:4:"data";s:17:"mississippi state";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}i:14;a:5:{s:4:"data";s:8:"missouri";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}i:15;a:5:{s:4:"data";s:8:"ole miss";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}i:16;a:5:{s:4:"data";s:8:"schedule";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}i:17;a:5:{s:4:"data";s:6:"season";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}i:18;a:5:{s:4:"data";s:14:"south carolina";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}i:19;a:5:{s:4:"data";s:9:"tennessee";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}i:20;a:5:{s:4:"data";s:9:"texas a&m";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}i:21;a:5:{s:4:"data";s:2:"tv";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}i:22;a:5:{s:4:"data";s:10:"vanderbilt";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:35:"http://www.fbschedules.com/?p=17107";s:7:"attribs";a:1:{s:0:"";a:1:{s:11:"isPermaLink";s:5:"false";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:181:"The SEC has announced their early season 2013 football TV schedule. The season kicks off on Thursday, Aug. 29 when South Carolina hosts North Carolina and Vanderbilt hosts Ole Miss.";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:12:"Kevin Kelley";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:40:"http://purl.org/rss/1.0/modules/content/";a:1:{s:7:"encoded";a:1:{i:0;a:5:{s:4:"data";s:7087:"<p>The SEC has announced their early season 2013 football TV schedule. The season kicks off on Thursday, Aug. 29 when South Carolina hosts North Carolina and Vanderbilt hosts Ole Miss.</p>
+<p>Three neutral site match-ups involving SEC teams are featured on Saturday, Aug. 31. In the Texas Kickoff Classic, Mississippi State takes on Oklahoma State at Reliant Stadium in Houston (3:30 p.m. ET, ABC/ESPN2), while Alabama faces Virginia Tech in the Chick-fil-A Kickoff Game in Atlanta (4:30 p.m. ET, ESPN). The night cap features LSU taking on TCU at Cowboys Stadium (9 p.m. ET, ESPN).</p>
+<p>Johnny Manziel, aka &#8220;Johnny Football, and Texas A&amp;M open the 2013 season at home vs. Rice on Sept. 1 at 1 p.m. ET (ESPN). And in another huge non-conference match-up, Georgia travels to Clemson (8 p.m. ET, ABC).</p>
+<p>The 2013 SEC Championship Game will be televised by CBS at 4 p.m. ET on Saturday, December, 7, 2013.</p>
+<p>Overall, 37 games have been announced involving SEC teams for broadcast on ABC, CBS, ESPN Networks, FSN, SEC Network, and Pay-Per-View.</p>
+<p>Listed below are the SEC games have been selected for television as of July 16:</p>
+<table class="tvs">
+<tbody>
+<tr>
+<td class="gray2" colspan="4">SEC &#8211; 2013, Week 1</td>
+</tr>
+<tr>
+<td class="tvs-date">Date</td>
+<td class="tvs-team">Game</td>
+<td class="tvs-time">Time (ET)</td>
+<td class="tvs-net">Network</td>
+</tr>
+<tr>
+<td>Thu., Aug. 29</td>
+<td>North Carolina at South Carolina</td>
+<td>6:00 p.m.</td>
+<td>ESPN</td>
+</tr>
+<tr>
+<td>Thu., Aug. 29</td>
+<td>Ole Miss at Vanderbilt</td>
+<td>9:15 p.m.</td>
+<td>ESPN</td>
+</tr>
+<tr>
+<td>Sat., Aug. 31</td>
+<td>Toledo at Florida</td>
+<td>12:21 p.m.</td>
+<td>SEC Network</td>
+</tr>
+<tr>
+<td>Sat., Aug. 31</td>
+<td>Rice at Texas A&amp;M</td>
+<td>1:00 p.m.</td>
+<td>ESPN</td>
+</tr>
+<tr>
+<td>Sat., Aug. 31</td>
+<td>Miss. St. vs. Oklahoma St. (Houston)</td>
+<td>3:30 p.m.</td>
+<td>ABC and ESPN2 (RM)</td>
+</tr>
+<tr>
+<td>Sat., Aug. 31</td>
+<td>UL Lafayette at Arkansas</td>
+<td>4:00 p.m.</td>
+<td>FSN</td>
+</tr>
+<tr>
+<td>Sat., Aug. 31</td>
+<td>Virginia Tech vs. Alabama</td>
+<td>5:30 p.m.</td>
+<td>ESPN</td>
+</tr>
+<tr>
+<td>Sat., Aug. 31</td>
+<td>Austin Peay at Tennessee</td>
+<td>6:00 p.m.</td>
+<td>PPV</td>
+</tr>
+<tr>
+<td>Sat., Aug. 31</td>
+<td>Washington State at Auburn</td>
+<td>7:00 p.m.</td>
+<td>ESPNU</td>
+</tr>
+<tr>
+<td>Sat., Aug. 31</td>
+<td>Kentucky vs. W. Kentucky (Nashville)</td>
+<td>7:00 p.m.</td>
+<td>ESPNews</td>
+</tr>
+<tr>
+<td>Sat., Aug. 31</td>
+<td>Georgia at Clemson</td>
+<td>8:00 p.m.</td>
+<td>ABC</td>
+</tr>
+<tr>
+<td>Sat., Aug. 31</td>
+<td>TCU vs. LSU (Arlington)</td>
+<td>9:00 p.m.</td>
+<td>ESPN</td>
+</tr>
+<tr>
+<td>Sat., Aug. 31</td>
+<td>Murray State at Missouri</td>
+<td>TBA</td>
+<td>PPV</td>
+</tr>
+<tr>
+<td class="gray2" colspan="4">SEC &#8211; 2013, Week 2</td>
+</tr>
+<tr>
+<td>Sat., Sep. 7</td>
+<td>Florida at  Miami</td>
+<td>12:00 p.m.</td>
+<td>ESPN</td>
+</tr>
+<tr>
+<td>Sat., Sep. 7</td>
+<td>Miami (Ohio) at Kentucky</td>
+<td>12:00 p.m.</td>
+<td>FSN</td>
+</tr>
+<tr>
+<td>Sat., Sep. 7</td>
+<td>Western Kentucky at Tennessee</td>
+<td>12:21 p.m.</td>
+<td>SEC Network</td>
+</tr>
+<tr>
+<td>Sat., Sep. 7</td>
+<td>Toledo at Missouri</td>
+<td>3:30 p.m.</td>
+<td>ESPNU</td>
+</tr>
+<tr>
+<td>Sat., Sep. 7</td>
+<td>Alcorn State at Miss. State</td>
+<td>3:30 p.m.</td>
+<td>CSS</td>
+</tr>
+<tr>
+<td>Sat., Sep. 7</td>
+<td>South Carolina at Georgia</td>
+<td>4:30 p.m.</td>
+<td>ESPN</td>
+</tr>
+<tr>
+<td>Sat., Sep. 7</td>
+<td>Samford at Arkansas (Little Rock)</td>
+<td>7:00 p.m.</td>
+<td>PPV</td>
+</tr>
+<tr>
+<td>Sat., Sep. 7</td>
+<td>UAB at LSU</td>
+<td>7:00 p.m.</td>
+<td>ESPNU</td>
+</tr>
+<tr>
+<td>Sat., Sep. 7</td>
+<td>SE Missouri at Ole Miss</td>
+<td>7:00 p.m.</td>
+<td>PPV</td>
+</tr>
+<tr>
+<td>Sat., Sep. 7</td>
+<td>Sam Houston State at Texas A&amp;M</td>
+<td>7:00 p.m.</td>
+<td>PPV</td>
+</tr>
+<tr>
+<td>Sat., Sep. 7</td>
+<td>Arkansas State at Auburn</td>
+<td>7:30 p.m.</td>
+<td>FSN</td>
+</tr>
+<tr>
+<td>Sat., Sep. 7</td>
+<td>Austin Peay at Vanderbilt</td>
+<td>7:30 p.m.</td>
+<td>CSS</td>
+</tr>
+<tr>
+<td class="gray2" colspan="4">SEC &#8211; 2013, Week 3</td>
+</tr>
+<tr>
+<td>Sat., Sep. 14</td>
+<td>Louisville at Kentucky</td>
+<td>12:00 p.m.</td>
+<td>ESPN</td>
+</tr>
+<tr>
+<td>Sat., Sep. 14</td>
+<td>Southern Miss at Arkansas</td>
+<td>12:21 p.m.</td>
+<td>SEC Network</td>
+</tr>
+<tr>
+<td>Sat., Sep. 14</td>
+<td>Alabama at Texas A&amp;M</td>
+<td>3:30 p.m.</td>
+<td>CBS</td>
+</tr>
+<tr>
+<td>Sat., Sep. 14</td>
+<td>Tennessee at Oregon</td>
+<td>3:30 p.m.</td>
+<td>ABC, ESPN or ESPN2</td>
+</tr>
+<tr>
+<td>Sat., Sep. 14</td>
+<td>Mississippi State at Auburn</td>
+<td>7:00 p.m.</td>
+<td>ESPN, ESPN2 or ESPNU</td>
+</tr>
+<tr>
+<td>Sat., Sep. 14</td>
+<td>Vanderbilt at South Carolina</td>
+<td>7:00 p.m.</td>
+<td>ESPN, ESPN2 or ESPNU</td>
+</tr>
+<tr>
+<td>Sat., Sep. 14</td>
+<td>Kent State at LSU</td>
+<td>7:00 p.m.</td>
+<td>ESPN, ESPN2 or ESPNU</td>
+</tr>
+<tr>
+<td>Sat., Sep. 14</td>
+<td>Ole Miss at Texas</td>
+<td>8:00 p.m.</td>
+<td>Longhorn Network</td>
+</tr>
+<tr>
+<td class="gray2" colspan="4">SEC &#8211; 2013, Other Games</td>
+</tr>
+<tr>
+<td>Sat., Oct. 19</td>
+<td>CBS Doubleheader</td>
+<td>12/3:30 p.m.</td>
+<td>CBS</td>
+</tr>
+<tr>
+<td>Thu., Oct. 24</td>
+<td>Kentucky at Mississippi State</td>
+<td>7:30 p.m.</td>
+<td>ESPN</td>
+</tr>
+<tr>
+<td>Sat., Nov. 2</td>
+<td>Georgia vs. Florida (Jacksonville)</td>
+<td>3:30 p.m.</td>
+<td>CBS</td>
+</tr>
+<tr>
+<td>Sat., Nov. 9</td>
+<td>CBS Doubleheader</td>
+<td>3:30/8 p.m.</td>
+<td>CBS</td>
+</tr>
+<tr>
+<td>Thu., Nov. 28</td>
+<td>Ole Miss at Mississippi State</td>
+<td>7:30 p.m.</td>
+<td>ESPN</td>
+</tr>
+<tr>
+<td>Fri., Nov. 29</td>
+<td>Arkansas at LSU</td>
+<td>2:30 p.m.</td>
+<td>CBS</td>
+</tr>
+<tr>
+<td>Sat., Nov. 30</td>
+<td>SEC Championship Game</td>
+<td>4:00 p.m.</td>
+<td>CBS</td>
+</tr>
+</tbody>
+</table>
+<div class="feedflare">
+<a href="http://feeds.feedburner.com/~ff/fbschedulescom?a=cku95lDTm34:s0FWu5qnDyI:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/fbschedulescom?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/fbschedulescom?a=cku95lDTm34:s0FWu5qnDyI:dnMXMwOfBR0"><img src="http://feeds.feedburner.com/~ff/fbschedulescom?d=dnMXMwOfBR0" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/fbschedulescom?a=cku95lDTm34:s0FWu5qnDyI:F7zBnMyn0Lo"><img src="http://feeds.feedburner.com/~ff/fbschedulescom?i=cku95lDTm34:s0FWu5qnDyI:F7zBnMyn0Lo" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/fbschedulescom?a=cku95lDTm34:s0FWu5qnDyI:V_sGLiPBpWU"><img src="http://feeds.feedburner.com/~ff/fbschedulescom?i=cku95lDTm34:s0FWu5qnDyI:V_sGLiPBpWU" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/fbschedulescom?a=cku95lDTm34:s0FWu5qnDyI:qj6IDK7rITs"><img src="http://feeds.feedburner.com/~ff/fbschedulescom?d=qj6IDK7rITs" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/fbschedulescom?a=cku95lDTm34:s0FWu5qnDyI:gIN9vFwOqvQ"><img src="http://feeds.feedburner.com/~ff/fbschedulescom?i=cku95lDTm34:s0FWu5qnDyI:gIN9vFwOqvQ" border="0"></img></a>
+</div><img src="http://feeds.feedburner.com/~r/fbschedulescom/~4/cku95lDTm34" height="1" width="1"/>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:36:"http://wellformedweb.org/CommentAPI/";a:1:{s:10:"commentRss";a:1:{i:0;a:5:{s:4:"data";s:83:"http://www.fbschedules.com/2013/07/sec-early-season-2013-football-tv-schedule/feed/";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:38:"http://purl.org/rss/1.0/modules/slash/";a:1:{s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:1:"1";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:42:"http://rssnamespace.org/feedburner/ext/1.0";a:1:{s:8:"origLink";a:1:{i:0;a:5:{s:4:"data";s:78:"http://www.fbschedules.com/2013/07/sec-early-season-2013-football-tv-schedule/";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:2;a:6:{s:4:"data";s:89:"
 		
 		
 		
@@ -254,7 +607,7 @@ a:4:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:3:"
 </table>
 <div class="feedflare">
 <a href="http://feeds.feedburner.com/~ff/fbschedulescom?a=X4WXydXo4Gs:GoURN6U5QQs:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/fbschedulescom?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/fbschedulescom?a=X4WXydXo4Gs:GoURN6U5QQs:dnMXMwOfBR0"><img src="http://feeds.feedburner.com/~ff/fbschedulescom?d=dnMXMwOfBR0" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/fbschedulescom?a=X4WXydXo4Gs:GoURN6U5QQs:F7zBnMyn0Lo"><img src="http://feeds.feedburner.com/~ff/fbschedulescom?i=X4WXydXo4Gs:GoURN6U5QQs:F7zBnMyn0Lo" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/fbschedulescom?a=X4WXydXo4Gs:GoURN6U5QQs:V_sGLiPBpWU"><img src="http://feeds.feedburner.com/~ff/fbschedulescom?i=X4WXydXo4Gs:GoURN6U5QQs:V_sGLiPBpWU" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/fbschedulescom?a=X4WXydXo4Gs:GoURN6U5QQs:qj6IDK7rITs"><img src="http://feeds.feedburner.com/~ff/fbschedulescom?d=qj6IDK7rITs" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/fbschedulescom?a=X4WXydXo4Gs:GoURN6U5QQs:gIN9vFwOqvQ"><img src="http://feeds.feedburner.com/~ff/fbschedulescom?i=X4WXydXo4Gs:GoURN6U5QQs:gIN9vFwOqvQ" border="0"></img></a>
-</div><img src="http://feeds.feedburner.com/~r/fbschedulescom/~4/X4WXydXo4Gs" height="1" width="1"/>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:36:"http://wellformedweb.org/CommentAPI/";a:1:{s:10:"commentRss";a:1:{i:0;a:5:{s:4:"data";s:96:"http://www.fbschedules.com/2013/07/sun-belt-conference-announces-2013-football-tv-schedule/feed/";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:38:"http://purl.org/rss/1.0/modules/slash/";a:1:{s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:1:"0";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:42:"http://rssnamespace.org/feedburner/ext/1.0";a:1:{s:8:"origLink";a:1:{i:0;a:5:{s:4:"data";s:91:"http://www.fbschedules.com/2013/07/sun-belt-conference-announces-2013-football-tv-schedule/";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:1;a:6:{s:4:"data";s:80:"
+</div><img src="http://feeds.feedburner.com/~r/fbschedulescom/~4/X4WXydXo4Gs" height="1" width="1"/>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:36:"http://wellformedweb.org/CommentAPI/";a:1:{s:10:"commentRss";a:1:{i:0;a:5:{s:4:"data";s:96:"http://www.fbschedules.com/2013/07/sun-belt-conference-announces-2013-football-tv-schedule/feed/";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:38:"http://purl.org/rss/1.0/modules/slash/";a:1:{s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:1:"1";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:42:"http://rssnamespace.org/feedburner/ext/1.0";a:1:{s:8:"origLink";a:1:{i:0;a:5:{s:4:"data";s:91:"http://www.fbschedules.com/2013/07/sun-belt-conference-announces-2013-football-tv-schedule/";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:3;a:6:{s:4:"data";s:80:"
 		
 		
 		
@@ -296,7 +649,7 @@ a:4:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:3:"
 </ul>
 <div class="feedflare">
 <a href="http://feeds.feedburner.com/~ff/fbschedulescom?a=d2bSVO6VpWs:1LPLe2uZsns:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/fbschedulescom?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/fbschedulescom?a=d2bSVO6VpWs:1LPLe2uZsns:dnMXMwOfBR0"><img src="http://feeds.feedburner.com/~ff/fbschedulescom?d=dnMXMwOfBR0" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/fbschedulescom?a=d2bSVO6VpWs:1LPLe2uZsns:F7zBnMyn0Lo"><img src="http://feeds.feedburner.com/~ff/fbschedulescom?i=d2bSVO6VpWs:1LPLe2uZsns:F7zBnMyn0Lo" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/fbschedulescom?a=d2bSVO6VpWs:1LPLe2uZsns:V_sGLiPBpWU"><img src="http://feeds.feedburner.com/~ff/fbschedulescom?i=d2bSVO6VpWs:1LPLe2uZsns:V_sGLiPBpWU" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/fbschedulescom?a=d2bSVO6VpWs:1LPLe2uZsns:qj6IDK7rITs"><img src="http://feeds.feedburner.com/~ff/fbschedulescom?d=qj6IDK7rITs" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/fbschedulescom?a=d2bSVO6VpWs:1LPLe2uZsns:gIN9vFwOqvQ"><img src="http://feeds.feedburner.com/~ff/fbschedulescom?i=d2bSVO6VpWs:1LPLe2uZsns:gIN9vFwOqvQ" border="0"></img></a>
-</div><img src="http://feeds.feedburner.com/~r/fbschedulescom/~4/d2bSVO6VpWs" height="1" width="1"/>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:36:"http://wellformedweb.org/CommentAPI/";a:1:{s:10:"commentRss";a:1:{i:0;a:5:{s:4:"data";s:99:"http://www.fbschedules.com/2013/07/penn-state-ucf-meet-2014-croke-park-classic-dublin-ireland/feed/";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:38:"http://purl.org/rss/1.0/modules/slash/";a:1:{s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:1:"6";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:42:"http://rssnamespace.org/feedburner/ext/1.0";a:1:{s:8:"origLink";a:1:{i:0;a:5:{s:4:"data";s:94:"http://www.fbschedules.com/2013/07/penn-state-ucf-meet-2014-croke-park-classic-dublin-ireland/";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:2;a:6:{s:4:"data";s:68:"
+</div><img src="http://feeds.feedburner.com/~r/fbschedulescom/~4/d2bSVO6VpWs" height="1" width="1"/>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:36:"http://wellformedweb.org/CommentAPI/";a:1:{s:10:"commentRss";a:1:{i:0;a:5:{s:4:"data";s:99:"http://www.fbschedules.com/2013/07/penn-state-ucf-meet-2014-croke-park-classic-dublin-ireland/feed/";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:38:"http://purl.org/rss/1.0/modules/slash/";a:1:{s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:1:"8";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:42:"http://rssnamespace.org/feedburner/ext/1.0";a:1:{s:8:"origLink";a:1:{i:0;a:5:{s:4:"data";s:94:"http://www.fbschedules.com/2013/07/penn-state-ucf-meet-2014-croke-park-classic-dublin-ireland/";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:4;a:6:{s:4:"data";s:68:"
 		
 		
 		
@@ -350,7 +703,7 @@ a:4:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:3:"
 <p style="padding-left: 30px;">(101) Cincinnati, (102) FIU, (103) UTEP, (104) Florida Atlantic, (105) Air Force, (106) UNLV, (107) Fresno State, (108) Troy, (109) ULM, (110) South Alabama, (111) Marshall, (112) Arkansas State, (113) New Mexico State, (114) Rice, (115) Bowling Green, (116) Ball State, (117) Army, (118) Western Kentucky, (119) Middle Tennessee, (120) Louisiana Tech, (121) UL Lafayette, (122) Ohio, (123) Texas State, (124) Northern Illinois, (125) Georgia State, (126) Old Dominion</p>
 <div class="feedflare">
 <a href="http://feeds.feedburner.com/~ff/fbschedulescom?a=AZMI1Z6poKc:DZfgv2WbjKQ:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/fbschedulescom?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/fbschedulescom?a=AZMI1Z6poKc:DZfgv2WbjKQ:dnMXMwOfBR0"><img src="http://feeds.feedburner.com/~ff/fbschedulescom?d=dnMXMwOfBR0" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/fbschedulescom?a=AZMI1Z6poKc:DZfgv2WbjKQ:F7zBnMyn0Lo"><img src="http://feeds.feedburner.com/~ff/fbschedulescom?i=AZMI1Z6poKc:DZfgv2WbjKQ:F7zBnMyn0Lo" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/fbschedulescom?a=AZMI1Z6poKc:DZfgv2WbjKQ:V_sGLiPBpWU"><img src="http://feeds.feedburner.com/~ff/fbschedulescom?i=AZMI1Z6poKc:DZfgv2WbjKQ:V_sGLiPBpWU" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/fbschedulescom?a=AZMI1Z6poKc:DZfgv2WbjKQ:qj6IDK7rITs"><img src="http://feeds.feedburner.com/~ff/fbschedulescom?d=qj6IDK7rITs" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/fbschedulescom?a=AZMI1Z6poKc:DZfgv2WbjKQ:gIN9vFwOqvQ"><img src="http://feeds.feedburner.com/~ff/fbschedulescom?i=AZMI1Z6poKc:DZfgv2WbjKQ:gIN9vFwOqvQ" border="0"></img></a>
-</div><img src="http://feeds.feedburner.com/~r/fbschedulescom/~4/AZMI1Z6poKc" height="1" width="1"/>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:36:"http://wellformedweb.org/CommentAPI/";a:1:{s:10:"commentRss";a:1:{i:0;a:5:{s:4:"data";s:104:"http://www.fbschedules.com/2013/07/phil-steele-2013-college-football-strength-of-schedule-rankings/feed/";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:38:"http://purl.org/rss/1.0/modules/slash/";a:1:{s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:2:"12";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:42:"http://rssnamespace.org/feedburner/ext/1.0";a:1:{s:8:"origLink";a:1:{i:0;a:5:{s:4:"data";s:99:"http://www.fbschedules.com/2013/07/phil-steele-2013-college-football-strength-of-schedule-rankings/";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:3;a:6:{s:4:"data";s:101:"
+</div><img src="http://feeds.feedburner.com/~r/fbschedulescom/~4/AZMI1Z6poKc" height="1" width="1"/>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:36:"http://wellformedweb.org/CommentAPI/";a:1:{s:10:"commentRss";a:1:{i:0;a:5:{s:4:"data";s:104:"http://www.fbschedules.com/2013/07/phil-steele-2013-college-football-strength-of-schedule-rankings/feed/";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:38:"http://purl.org/rss/1.0/modules/slash/";a:1:{s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:2:"13";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:42:"http://rssnamespace.org/feedburner/ext/1.0";a:1:{s:8:"origLink";a:1:{i:0;a:5:{s:4:"data";s:99:"http://www.fbschedules.com/2013/07/phil-steele-2013-college-football-strength-of-schedule-rankings/";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:5;a:6:{s:4:"data";s:101:"
 		
 		
 		
@@ -414,7 +767,7 @@ a:4:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:3:"
 </ul>
 <div class="feedflare">
 <a href="http://feeds.feedburner.com/~ff/fbschedulescom?a=_QoBlG4rK3M:VwFrRmVdexA:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/fbschedulescom?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/fbschedulescom?a=_QoBlG4rK3M:VwFrRmVdexA:dnMXMwOfBR0"><img src="http://feeds.feedburner.com/~ff/fbschedulescom?d=dnMXMwOfBR0" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/fbschedulescom?a=_QoBlG4rK3M:VwFrRmVdexA:F7zBnMyn0Lo"><img src="http://feeds.feedburner.com/~ff/fbschedulescom?i=_QoBlG4rK3M:VwFrRmVdexA:F7zBnMyn0Lo" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/fbschedulescom?a=_QoBlG4rK3M:VwFrRmVdexA:V_sGLiPBpWU"><img src="http://feeds.feedburner.com/~ff/fbschedulescom?i=_QoBlG4rK3M:VwFrRmVdexA:V_sGLiPBpWU" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/fbschedulescom?a=_QoBlG4rK3M:VwFrRmVdexA:qj6IDK7rITs"><img src="http://feeds.feedburner.com/~ff/fbschedulescom?d=qj6IDK7rITs" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/fbschedulescom?a=_QoBlG4rK3M:VwFrRmVdexA:gIN9vFwOqvQ"><img src="http://feeds.feedburner.com/~ff/fbschedulescom?i=_QoBlG4rK3M:VwFrRmVdexA:gIN9vFwOqvQ" border="0"></img></a>
-</div><img src="http://feeds.feedburner.com/~r/fbschedulescom/~4/_QoBlG4rK3M" height="1" width="1"/>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:36:"http://wellformedweb.org/CommentAPI/";a:1:{s:10:"commentRss";a:1:{i:0;a:5:{s:4:"data";s:88:"http://www.fbschedules.com/2013/07/big-ten-2016-2017-conference-football-schedules/feed/";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:38:"http://purl.org/rss/1.0/modules/slash/";a:1:{s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:2:"17";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:42:"http://rssnamespace.org/feedburner/ext/1.0";a:1:{s:8:"origLink";a:1:{i:0;a:5:{s:4:"data";s:83:"http://www.fbschedules.com/2013/07/big-ten-2016-2017-conference-football-schedules/";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:4;a:6:{s:4:"data";s:77:"
+</div><img src="http://feeds.feedburner.com/~r/fbschedulescom/~4/_QoBlG4rK3M" height="1" width="1"/>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:36:"http://wellformedweb.org/CommentAPI/";a:1:{s:10:"commentRss";a:1:{i:0;a:5:{s:4:"data";s:88:"http://www.fbschedules.com/2013/07/big-ten-2016-2017-conference-football-schedules/feed/";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:38:"http://purl.org/rss/1.0/modules/slash/";a:1:{s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:2:"18";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:42:"http://rssnamespace.org/feedburner/ext/1.0";a:1:{s:8:"origLink";a:1:{i:0;a:5:{s:4:"data";s:83:"http://www.fbschedules.com/2013/07/big-ten-2016-2017-conference-football-schedules/";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:6;a:6:{s:4:"data";s:77:"
 		
 		
 		
@@ -459,7 +812,7 @@ a:4:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:3:"
 </ul>
 <div class="feedflare">
 <a href="http://feeds.feedburner.com/~ff/fbschedulescom?a=tkTOEjcucnI:8zpyAsPz-LE:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/fbschedulescom?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/fbschedulescom?a=tkTOEjcucnI:8zpyAsPz-LE:dnMXMwOfBR0"><img src="http://feeds.feedburner.com/~ff/fbschedulescom?d=dnMXMwOfBR0" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/fbschedulescom?a=tkTOEjcucnI:8zpyAsPz-LE:F7zBnMyn0Lo"><img src="http://feeds.feedburner.com/~ff/fbschedulescom?i=tkTOEjcucnI:8zpyAsPz-LE:F7zBnMyn0Lo" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/fbschedulescom?a=tkTOEjcucnI:8zpyAsPz-LE:V_sGLiPBpWU"><img src="http://feeds.feedburner.com/~ff/fbschedulescom?i=tkTOEjcucnI:8zpyAsPz-LE:V_sGLiPBpWU" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/fbschedulescom?a=tkTOEjcucnI:8zpyAsPz-LE:qj6IDK7rITs"><img src="http://feeds.feedburner.com/~ff/fbschedulescom?d=qj6IDK7rITs" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/fbschedulescom?a=tkTOEjcucnI:8zpyAsPz-LE:gIN9vFwOqvQ"><img src="http://feeds.feedburner.com/~ff/fbschedulescom?i=tkTOEjcucnI:8zpyAsPz-LE:gIN9vFwOqvQ" border="0"></img></a>
-</div><img src="http://feeds.feedburner.com/~r/fbschedulescom/~4/tkTOEjcucnI" height="1" width="1"/>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:36:"http://wellformedweb.org/CommentAPI/";a:1:{s:10:"commentRss";a:1:{i:0;a:5:{s:4:"data";s:97:"http://www.fbschedules.com/2013/07/byu-stanford-scheduling-three-game-series-beginning-2020/feed/";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:38:"http://purl.org/rss/1.0/modules/slash/";a:1:{s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:2:"30";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:42:"http://rssnamespace.org/feedburner/ext/1.0";a:1:{s:8:"origLink";a:1:{i:0;a:5:{s:4:"data";s:92:"http://www.fbschedules.com/2013/07/byu-stanford-scheduling-three-game-series-beginning-2020/";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:5;a:6:{s:4:"data";s:86:"
+</div><img src="http://feeds.feedburner.com/~r/fbschedulescom/~4/tkTOEjcucnI" height="1" width="1"/>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:36:"http://wellformedweb.org/CommentAPI/";a:1:{s:10:"commentRss";a:1:{i:0;a:5:{s:4:"data";s:97:"http://www.fbschedules.com/2013/07/byu-stanford-scheduling-three-game-series-beginning-2020/feed/";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:38:"http://purl.org/rss/1.0/modules/slash/";a:1:{s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:2:"32";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:42:"http://rssnamespace.org/feedburner/ext/1.0";a:1:{s:8:"origLink";a:1:{i:0;a:5:{s:4:"data";s:92:"http://www.fbschedules.com/2013/07/byu-stanford-scheduling-three-game-series-beginning-2020/";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:7;a:6:{s:4:"data";s:86:"
 		
 		
 		
@@ -499,7 +852,7 @@ a:4:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:3:"
 <p>Of the three possible schools, Notre Dame would be the most likely team to return to Ireland, followed by Boston College. Alabama would be an interesting team to feature overseas, but finding a worthy opponent might be difficult.</p>
 <div class="feedflare">
 <a href="http://feeds.feedburner.com/~ff/fbschedulescom?a=zlm-F5Qndyc:VyKKSeVK_N8:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/fbschedulescom?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/fbschedulescom?a=zlm-F5Qndyc:VyKKSeVK_N8:dnMXMwOfBR0"><img src="http://feeds.feedburner.com/~ff/fbschedulescom?d=dnMXMwOfBR0" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/fbschedulescom?a=zlm-F5Qndyc:VyKKSeVK_N8:F7zBnMyn0Lo"><img src="http://feeds.feedburner.com/~ff/fbschedulescom?i=zlm-F5Qndyc:VyKKSeVK_N8:F7zBnMyn0Lo" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/fbschedulescom?a=zlm-F5Qndyc:VyKKSeVK_N8:V_sGLiPBpWU"><img src="http://feeds.feedburner.com/~ff/fbschedulescom?i=zlm-F5Qndyc:VyKKSeVK_N8:V_sGLiPBpWU" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/fbschedulescom?a=zlm-F5Qndyc:VyKKSeVK_N8:qj6IDK7rITs"><img src="http://feeds.feedburner.com/~ff/fbschedulescom?d=qj6IDK7rITs" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/fbschedulescom?a=zlm-F5Qndyc:VyKKSeVK_N8:gIN9vFwOqvQ"><img src="http://feeds.feedburner.com/~ff/fbschedulescom?i=zlm-F5Qndyc:VyKKSeVK_N8:gIN9vFwOqvQ" border="0"></img></a>
-</div><img src="http://feeds.feedburner.com/~r/fbschedulescom/~4/zlm-F5Qndyc" height="1" width="1"/>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:36:"http://wellformedweb.org/CommentAPI/";a:1:{s:10:"commentRss";a:1:{i:0;a:5:{s:4:"data";s:115:"http://www.fbschedules.com/2013/07/alabama-boston-college-notre-dame-future-football-games-ireland-croke-park/feed/";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:38:"http://purl.org/rss/1.0/modules/slash/";a:1:{s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:2:"12";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:42:"http://rssnamespace.org/feedburner/ext/1.0";a:1:{s:8:"origLink";a:1:{i:0;a:5:{s:4:"data";s:110:"http://www.fbschedules.com/2013/07/alabama-boston-college-notre-dame-future-football-games-ireland-croke-park/";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:6;a:6:{s:4:"data";s:83:"
+</div><img src="http://feeds.feedburner.com/~r/fbschedulescom/~4/zlm-F5Qndyc" height="1" width="1"/>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:36:"http://wellformedweb.org/CommentAPI/";a:1:{s:10:"commentRss";a:1:{i:0;a:5:{s:4:"data";s:115:"http://www.fbschedules.com/2013/07/alabama-boston-college-notre-dame-future-football-games-ireland-croke-park/feed/";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:38:"http://purl.org/rss/1.0/modules/slash/";a:1:{s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:2:"12";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:42:"http://rssnamespace.org/feedburner/ext/1.0";a:1:{s:8:"origLink";a:1:{i:0;a:5:{s:4:"data";s:110:"http://www.fbschedules.com/2013/07/alabama-boston-college-notre-dame-future-football-games-ireland-croke-park/";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:8;a:6:{s:4:"data";s:83:"
 		
 		
 		
@@ -547,7 +900,7 @@ a:4:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:3:"
 </ul>
 <div class="feedflare">
 <a href="http://feeds.feedburner.com/~ff/fbschedulescom?a=Y8oqb2sc7E8:BD0jPD321iE:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/fbschedulescom?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/fbschedulescom?a=Y8oqb2sc7E8:BD0jPD321iE:dnMXMwOfBR0"><img src="http://feeds.feedburner.com/~ff/fbschedulescom?d=dnMXMwOfBR0" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/fbschedulescom?a=Y8oqb2sc7E8:BD0jPD321iE:F7zBnMyn0Lo"><img src="http://feeds.feedburner.com/~ff/fbschedulescom?i=Y8oqb2sc7E8:BD0jPD321iE:F7zBnMyn0Lo" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/fbschedulescom?a=Y8oqb2sc7E8:BD0jPD321iE:V_sGLiPBpWU"><img src="http://feeds.feedburner.com/~ff/fbschedulescom?i=Y8oqb2sc7E8:BD0jPD321iE:V_sGLiPBpWU" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/fbschedulescom?a=Y8oqb2sc7E8:BD0jPD321iE:qj6IDK7rITs"><img src="http://feeds.feedburner.com/~ff/fbschedulescom?d=qj6IDK7rITs" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/fbschedulescom?a=Y8oqb2sc7E8:BD0jPD321iE:gIN9vFwOqvQ"><img src="http://feeds.feedburner.com/~ff/fbschedulescom?i=Y8oqb2sc7E8:BD0jPD321iE:gIN9vFwOqvQ" border="0"></img></a>
-</div><img src="http://feeds.feedburner.com/~r/fbschedulescom/~4/Y8oqb2sc7E8" height="1" width="1"/>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:36:"http://wellformedweb.org/CommentAPI/";a:1:{s:10:"commentRss";a:1:{i:0;a:5:{s:4:"data";s:92:"http://www.fbschedules.com/2013/07/utah-ad-chris-hill-utes-close-playing-byu-2017-2018/feed/";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:38:"http://purl.org/rss/1.0/modules/slash/";a:1:{s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:1:"7";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:42:"http://rssnamespace.org/feedburner/ext/1.0";a:1:{s:8:"origLink";a:1:{i:0;a:5:{s:4:"data";s:87:"http://www.fbschedules.com/2013/07/utah-ad-chris-hill-utes-close-playing-byu-2017-2018/";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:7;a:6:{s:4:"data";s:80:"
+</div><img src="http://feeds.feedburner.com/~r/fbschedulescom/~4/Y8oqb2sc7E8" height="1" width="1"/>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:36:"http://wellformedweb.org/CommentAPI/";a:1:{s:10:"commentRss";a:1:{i:0;a:5:{s:4:"data";s:92:"http://www.fbschedules.com/2013/07/utah-ad-chris-hill-utes-close-playing-byu-2017-2018/feed/";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:38:"http://purl.org/rss/1.0/modules/slash/";a:1:{s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:1:"7";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:42:"http://rssnamespace.org/feedburner/ext/1.0";a:1:{s:8:"origLink";a:1:{i:0;a:5:{s:4:"data";s:87:"http://www.fbschedules.com/2013/07/utah-ad-chris-hill-utes-close-playing-byu-2017-2018/";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:9;a:6:{s:4:"data";s:80:"
 		
 		
 		
@@ -595,325 +948,4 @@ a:4:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:3:"
 </ul>
 <div class="feedflare">
 <a href="http://feeds.feedburner.com/~ff/fbschedulescom?a=Reeg9tDxhoQ:L79uWbNoTjw:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/fbschedulescom?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/fbschedulescom?a=Reeg9tDxhoQ:L79uWbNoTjw:dnMXMwOfBR0"><img src="http://feeds.feedburner.com/~ff/fbschedulescom?d=dnMXMwOfBR0" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/fbschedulescom?a=Reeg9tDxhoQ:L79uWbNoTjw:F7zBnMyn0Lo"><img src="http://feeds.feedburner.com/~ff/fbschedulescom?i=Reeg9tDxhoQ:L79uWbNoTjw:F7zBnMyn0Lo" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/fbschedulescom?a=Reeg9tDxhoQ:L79uWbNoTjw:V_sGLiPBpWU"><img src="http://feeds.feedburner.com/~ff/fbschedulescom?i=Reeg9tDxhoQ:L79uWbNoTjw:V_sGLiPBpWU" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/fbschedulescom?a=Reeg9tDxhoQ:L79uWbNoTjw:qj6IDK7rITs"><img src="http://feeds.feedburner.com/~ff/fbschedulescom?d=qj6IDK7rITs" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/fbschedulescom?a=Reeg9tDxhoQ:L79uWbNoTjw:gIN9vFwOqvQ"><img src="http://feeds.feedburner.com/~ff/fbschedulescom?i=Reeg9tDxhoQ:L79uWbNoTjw:gIN9vFwOqvQ" border="0"></img></a>
-</div><img src="http://feeds.feedburner.com/~r/fbschedulescom/~4/Reeg9tDxhoQ" height="1" width="1"/>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:36:"http://wellformedweb.org/CommentAPI/";a:1:{s:10:"commentRss";a:1:{i:0;a:5:{s:4:"data";s:86:"http://www.fbschedules.com/2013/07/report-penn-state-ucf-play-at-croke-park-2014/feed/";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:38:"http://purl.org/rss/1.0/modules/slash/";a:1:{s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:1:"7";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:42:"http://rssnamespace.org/feedburner/ext/1.0";a:1:{s:8:"origLink";a:1:{i:0;a:5:{s:4:"data";s:81:"http://www.fbschedules.com/2013/07/report-penn-state-ucf-play-at-croke-park-2014/";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:8;a:6:{s:4:"data";s:83:"
-		
-		
-		
-		
-		
-				
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-
-		
-		
-			
-			
-		
-		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:6:{s:0:"";a:7:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:48:"Toughest 2013 FBS Independent Football Schedules";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:61:"http://feedproxy.google.com/~r/fbschedulescom/~3/wpZV6cwMNRc/";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:93:"http://www.fbschedules.com/2013/07/toughest-2013-fbs-independent-football-schedules/#comments";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Mon, 08 Jul 2013 18:18:22 +0000";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:15:{i:0;a:5:{s:4:"data";s:12:"Independents";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}i:1;a:5:{s:4:"data";s:4:"NCAA";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}i:2;a:5:{s:4:"data";s:20:"Strength of Schedule";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}i:3;a:5:{s:4:"data";s:4:"2013";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}i:4;a:5:{s:4:"data";s:4:"army";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}i:5;a:5:{s:4:"data";s:3:"byu";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}i:6;a:5:{s:4:"data";s:3:"fbs";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}i:7;a:5:{s:4:"data";s:8:"football";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}i:8;a:5:{s:4:"data";s:5:"idaho";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}i:9;a:5:{s:4:"data";s:11:"independent";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}i:10;a:5:{s:4:"data";s:4:"navy";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}i:11;a:5:{s:4:"data";s:16:"new mexico state";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}i:12;a:5:{s:4:"data";s:10:"notre dame";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}i:13;a:5:{s:4:"data";s:9:"schedules";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}i:14;a:5:{s:4:"data";s:8:"toughest";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:35:"http://www.fbschedules.com/?p=16951";s:7:"attribs";a:1:{s:0:"";a:1:{s:11:"isPermaLink";s:5:"false";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:223:"Continuing our rankings of the toughest 2013 football schedules, the independent schools take center stage. Every game will be accounted for in these rankings, which wasn't the case in the previous non-conference rankings. ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:14:"Clayton Tinkle";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:40:"http://purl.org/rss/1.0/modules/content/";a:1:{s:7:"encoded";a:1:{i:0;a:5:{s:4:"data";s:8206:"<p>Continuing our rankings of the toughest 2013 football schedules, the independent schools take center stage. Every game will be accounted for in these rankings, which wasn&#8217;t the case in the previous non-conference rankings.</p>
-<p>A lot of teams that had higher ranked non-conference schedules are present on these slates and they will play a big factor in these rankings. Without further delay, from last to first, here are the toughest independent schedules of the 2013 season.</p>
-<p><strong>6. Army Black Knights</strong></p>
-<ul>
-<li>08/30 &#8211; Morgan State</li>
-<li>09/07 &#8211; at Ball State</li>
-<li>09/14 &#8211; Stanford</li>
-<li>09/21 &#8211; Wake Forest</li>
-<li>09/28 &#8211; at Louisiana Tech (at Dallas, TX)</li>
-<li>10/05 &#8211; at Boston College</li>
-<li>10/12 &#8211; Eastern Michigan</li>
-<li>10/19 &#8211; at Temple</li>
-<li>11/02 &#8211; at Air Force</li>
-<li>11/09 &#8211; Western Kentucky</li>
-<li>11/30 &#8211; at Hawaii</li>
-<li>12/14 &#8211; Navy (at Philadelphia, PA)</li>
-</ul>
-<p>The Black Knights get to play their toughest contest within friendly confines &#8211; not the case with Navy going to Notre Dame &#8211; and some pretty solid games back that contest with Stanford. That Stanford game starts a big streak of games &#8211; the Black Knights take on Stanford, Wake Forest, travel to Louisiana Tech and Boston College, host Eastern Michigan and then visit Temple all without a break. Louisiana Tech, Temple, and Ball State will play a big factor into the Black Knights&#8217; final record.</p>
-<p><strong>5. Navy Midshipmen</strong></p>
-<ul>
-<li>09/07 &#8211; at Indiana</li>
-<li>09/14 &#8211; Delaware</li>
-<li>09/25 &#8211; at Western Kentucky</li>
-<li>10/05 &#8211; Air Force</li>
-<li>10/12 &#8211; at Duke</li>
-<li>10/19 &#8211; at Toledo</li>
-<li>10/26 &#8211; Pittsburgh</li>
-<li>11/02 &#8211; at Notre Dame</li>
-<li>11/09 &#8211; Hawaii</li>
-<li>11/16 &#8211; South Alabama</li>
-<li>11/22 &#8211; at San Jose State</li>
-<li>12/14 &#8211; Army (at Philadelphia, PA)</li>
-</ul>
-<p>Navy and Army&#8217;s schedules were very hard to look at side-by-side, as they are pretty close to even. I think the thing that put Navy&#8217;s over the top is the visit from Notre Dame whereas Army gets their toughest opponent, Stanford, at home. A tricky stretch consisting of a very solid Toledo team, followed by Pittsburgh and the aforementioned Notre Dame game could trouble the Midshipmen, and that same troubling stretch places Navy ahead of Army.</p>
-<p><strong>4. New Mexico State Aggies</strong></p>
-<ul>
-<li>08/31 &#8211; at Texas</li>
-<li>09/07 &#8211; Minnesota</li>
-<li>09/14 &#8211; UTEP</li>
-<li>09/21 &#8211; at UCLA</li>
-<li>09/28 &#8211; San Diego State</li>
-<li>10/05 &#8211; New Mexico</li>
-<li>10/19 &#8211; Rice</li>
-<li>10/27 &#8211; Abilene Christian</li>
-<li>11/02 &#8211; at UL Lafayette</li>
-<li>11/09 &#8211; Boston College</li>
-<li>11/23 &#8211; at Florida Atlantic</li>
-<li>11/30 &#8211; Idaho Vandals</li>
-</ul>
-<p>The tandem of playing at UCLA and at Texas is definitely a tough start. Minnesota, San Diego State, and UL Lafayette, without a doubt, adds to the complexity of this slate as well. The weak spot is the end of the schedule, which closes with Boston College, at Florida Atlantic, and Idaho at home. That should help NMSU add some wins to the column, as should playing Abilene Christian. The schedule is top heavy though, with a brutal stretch in the first five games. That&#8217;s enough to land the Aggies at fourth in these schedule rankings as Idaho&#8217;s road game tandem is a little tougher.</p>
-<p><strong>3. Idaho Vandals</strong></p>
-<ul>
-<li>08/31 &#8211; at North Texas</li>
-<li>09/07 &#8211; at Wyoming</li>
-<li>09/14 &#8211; Northern Illinois</li>
-<li>09/21 &#8211; at Washington State</li>
-<li>09/28 &#8211; Temple</li>
-<li>10/05 &#8211; Fresno State</li>
-<li>10/12 &#8211; at Arkansas State</li>
-<li>10/26 &#8211; at Ole Miss</li>
-<li>11/02 &#8211; Texas State</li>
-<li>11/09 &#8211; Old Dominion</li>
-<li>11/23 &#8211; at Florida State</li>
-<li>11/30 &#8211; at New Mexico State</li>
-</ul>
-<p>Idaho might have lost the most talent of any team in the nation this offseason, and a solid schedule doesn&#8217;t help the matter. They should fare a little better in the Sun Belt next year, but until then playing some marquee opponents &#8211; on the road, no less &#8211; will not help the Vandals winning percentage this year. Road contests against Washington State, Ole Miss, and Florida State stand out, while games against Temple, Northern Illinois, and what should be a very good Fresno State team will spell trouble for the Vandals.</p>
-<p><strong>2. BYU Cougars</strong></p>
-<ul>
-<li>08/31 &#8211; at Virginia</li>
-<li>09/07 &#8211; Texas</li>
-<li>09/21 &#8211; Utah</li>
-<li>09/27 &#8211; Middle Tennessee</li>
-<li>10/04 &#8211; at Utah State</li>
-<li>10/12 &#8211; Georgia Tech</li>
-<li>10/19 &#8211; at Houston (at Reliant Stadium)</li>
-<li>10/25 &#8211; Boise State</li>
-<li>11/09 &#8211; at Wisconsin</li>
-<li>11/16 &#8211; Idaho State</li>
-<li>11/23 &#8211; at Notre Dame</li>
-<li>11/30 &#8211; at Nevada</li>
-</ul>
-<p>Games on the road against Virginia, Wisconsin, and Notre Dame are some of the most daunting on this schedule, but the Cougars also have a few solid teams coming to Provo. Texas, Utah, the ever dangerous triple<em>-</em>option and Georgia Tech as well as the forever pesky Boise State Broncos gives this slate the second spot in our rankings. BYU also travels to surprising Utah State and closes the season at Nevada. Even Middle Tennessee is no slouch as BYU tries to improve on their eight win season from a year ago.</p>
-<p><strong>1. Notre Dame Fighting Irish</strong></p>
-<ul>
-<li>08/31 &#8211; Temple</li>
-<li>09/07 &#8211; at Michigan</li>
-<li>09/14 &#8211; at Purdue</li>
-<li>09/21 &#8211; Michigan State</li>
-<li>09/28 &#8211; Oklahoma</li>
-<li>10/05 &#8211; Arizona State (at Arlington, TX)</li>
-<li>10/19 &#8211; USC</li>
-<li>10/26 &#8211; at Air Force</li>
-<li>11/02 &#8211; Navy</li>
-<li>11/09 &#8211; at Pittsburgh</li>
-<li>11/23 &#8211; BYU</li>
-<li>11/30 &#8211; at Stanford</li>
-</ul>
-<p>This wasn&#8217;t really much of a decision to be made. Notre Dame&#8217;s existing rivalries seemed to solidify their schedule for the top spot. The normal appearances of Michigan and Purdue &#8211; both on the road &#8211; and Michigan State, USC, and Stanford at home do this schedule enough justice. The addition of fellow independent institution BYU along with games at Pittsburgh and Air Force and vs. Arizona State in Arlington add to the toughness. Add in another match-up with Oklahoma and the Fighting Irish&#8217;s strength of schedule is among the toughest in 2013.</p>
-<p><em>Clayton Tinkle is a contributor to FBSchedules.com. Follow him on Twitter <a href="https://twitter.com/Tink_CFB" target="_blank">@Tink_CFB</a>.</em></p>
-<div class="feedflare">
-<a href="http://feeds.feedburner.com/~ff/fbschedulescom?a=wpZV6cwMNRc:heyTPuLEtJ0:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/fbschedulescom?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/fbschedulescom?a=wpZV6cwMNRc:heyTPuLEtJ0:dnMXMwOfBR0"><img src="http://feeds.feedburner.com/~ff/fbschedulescom?d=dnMXMwOfBR0" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/fbschedulescom?a=wpZV6cwMNRc:heyTPuLEtJ0:F7zBnMyn0Lo"><img src="http://feeds.feedburner.com/~ff/fbschedulescom?i=wpZV6cwMNRc:heyTPuLEtJ0:F7zBnMyn0Lo" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/fbschedulescom?a=wpZV6cwMNRc:heyTPuLEtJ0:V_sGLiPBpWU"><img src="http://feeds.feedburner.com/~ff/fbschedulescom?i=wpZV6cwMNRc:heyTPuLEtJ0:V_sGLiPBpWU" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/fbschedulescom?a=wpZV6cwMNRc:heyTPuLEtJ0:qj6IDK7rITs"><img src="http://feeds.feedburner.com/~ff/fbschedulescom?d=qj6IDK7rITs" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/fbschedulescom?a=wpZV6cwMNRc:heyTPuLEtJ0:gIN9vFwOqvQ"><img src="http://feeds.feedburner.com/~ff/fbschedulescom?i=wpZV6cwMNRc:heyTPuLEtJ0:gIN9vFwOqvQ" border="0"></img></a>
-</div><img src="http://feeds.feedburner.com/~r/fbschedulescom/~4/wpZV6cwMNRc" height="1" width="1"/>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:36:"http://wellformedweb.org/CommentAPI/";a:1:{s:10:"commentRss";a:1:{i:0;a:5:{s:4:"data";s:89:"http://www.fbschedules.com/2013/07/toughest-2013-fbs-independent-football-schedules/feed/";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:38:"http://purl.org/rss/1.0/modules/slash/";a:1:{s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:1:"9";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:42:"http://rssnamespace.org/feedburner/ext/1.0";a:1:{s:8:"origLink";a:1:{i:0;a:5:{s:4:"data";s:84:"http://www.fbschedules.com/2013/07/toughest-2013-fbs-independent-football-schedules/";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:9;a:6:{s:4:"data";s:65:"
-		
-		
-		
-		
-		
-				
-		
-		
-		
-		
-		
-		
-		
-		
-
-		
-		
-			
-			
-		
-		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:6:{s:0:"";a:7:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:49:"ESPN To Air Top 25 College Football Games of 2012";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:61:"http://feedproxy.google.com/~r/fbschedulescom/~3/QUQtgHwrg1M/";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:94:"http://www.fbschedules.com/2013/07/espn-to-air-top-25-college-football-games-of-2012/#comments";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Mon, 08 Jul 2013 17:23:39 +0000";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:9:{i:0;a:5:{s:4:"data";s:4:"NCAA";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}i:1;a:5:{s:4:"data";s:11:"TV Schedule";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}i:2;a:5:{s:4:"data";s:4:"2012";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}i:3;a:5:{s:4:"data";s:7:"college";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}i:4;a:5:{s:4:"data";s:4:"espn";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}i:5;a:5:{s:4:"data";s:5:"espnu";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}i:6;a:5:{s:4:"data";s:8:"football";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}i:7;a:5:{s:4:"data";s:5:"games";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}i:8;a:5:{s:4:"data";s:6:"top 25";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:35:"http://www.fbschedules.com/?p=17031";s:7:"attribs";a:1:{s:0:"";a:1:{s:11:"isPermaLink";s:5:"false";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:167:"ESPNU will air the Top 25 college football games of the 2012 season, the network has announced. The 11-day marathon of games on ESPNU will begin on Wednesday, July 17.";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:12:"Kevin Kelley";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:40:"http://purl.org/rss/1.0/modules/content/";a:1:{s:7:"encoded";a:1:{i:0;a:5:{s:4:"data";s:5130:"<p>ESPN will air the Top 25 college football games of the 2012 season, the network has <a href="http://espnmediazone.com/us/press-releases/2013/07/espn-ranks-top-25-college-football-games-of-2012/" target="_blank">announced</a>. The 11-day marathon of games on <strong>ESPNU</strong> will begin on Wednesday, July 17.</p>
-<p>ESPN selected and ranked the Top 25 games of 2012 and will let the fans decide the order of the Top 5 via a <a href="http://espn.go.com/sportsnation/post/_/id/9446183/top-college-football-games-2012" target="_blank">SportsNation poll</a>. Those five games are listed below:</p>
-<ul>
-<li>Texas A&amp;M at Alabama</li>
-<li>South Carolina vs. Michigan (Outback Bowl)</li>
-<li>Alabama at LSU</li>
-<li>Stanford at Oregon</li>
-<li>Alabama vs. Georgia (SEC Championship)</li>
-</ul>
-<p>Listed below is the complete schedule of games (all on ESPNU; note that six games will not be aired). The Top 5 games will be added after the completion of fan voting.</p>
-<table class="tvs">
-<tbody>
-<tr>
-<td class="tvs-date">Rank</td>
-<td class="tvs-team">Game</td>
-<td class="tvs-time">Time (ET)</td>
-<td class="tvs-net">Date</td>
-</tr>
-<tr>
-<td>No. 25</td>
-<td>Nebraska 29, Northwestern 28</td>
-<td>7:00 p.m.</td>
-<td>Wednesday, July 17</td>
-</tr>
-<tr>
-<td>No. 24</td>
-<td>Utah 24, BYU 21</td>
-<td>10:00 p.m.</td>
-<td>Wednesday, July 17</td>
-</tr>
-<tr>
-<td>No. 23</td>
-<td>Stanford 54, Arizona 48</td>
-<td>N/A</td>
-<td>Will not be aired.</td>
-</tr>
-<tr>
-<td>No. 22</td>
-<td>LSU 41, Ole Miss 35</td>
-<td>7:00 p.m.</td>
-<td>Thursday, July 18</td>
-</tr>
-<tr>
-<td>No. 21</td>
-<td>Texas 41, Oklahoma State 36</td>
-<td>N/A</td>
-<td>Will not be aired.</td>
-</tr>
-<tr>
-<td>No. 20</td>
-<td>Miami Fla. 44, North Carolina State 37</td>
-<td>10:00 p.m.</td>
-<td>Thursday, July 18</td>
-</tr>
-<tr>
-<td>No. 19</td>
-<td>Arizona 49, Nevada 48</td>
-<td>7:00 p.m.</td>
-<td>Friday, July 19</td>
-</tr>
-<tr>
-<td>No. 18</td>
-<td>Oklahoma 50, West Virginia 49</td>
-<td>N/A</td>
-<td>Will not be aired.</td>
-</tr>
-<tr>
-<td>No. 17</td>
-<td>North Carolina State 17, Florida State 16</td>
-<td>Noon</td>
-<td>Saturday, July 20</td>
-</tr>
-<tr>
-<td>No. 16</td>
-<td>Nebraska 28, Michigan State 24</td>
-<td>3:00 p.m.</td>
-<td>Saturday, July 20</td>
-</tr>
-<tr>
-<td>No. 15</td>
-<td>Oklahoma 51, Oklahoma State 48 (OT)</td>
-<td>6 p.m.</td>
-<td>Saturday, July 20</td>
-</tr>
-<tr>
-<td>No. 14</td>
-<td>Louisville 34, Cincinnati 31 (OT)</td>
-<td>9:00 p.m.</td>
-<td>Saturday, July 20</td>
-</tr>
-<tr>
-<td>No. 13</td>
-<td>ULM 34, Arkansas 31</td>
-<td>Noon</td>
-<td>Sunday, July 21</td>
-</tr>
-<tr>
-<td>No. 12</td>
-<td>Michigan 38, Northwestern 31 (OT)</td>
-<td>3:00 p.m.</td>
-<td>Sunday, July 21</td>
-</tr>
-<tr>
-<td>No. 11</td>
-<td>West Virginia 70, Baylor 63</td>
-<td>N/A</td>
-<td>Will not be aired.</td>
-</tr>
-<tr>
-<td>No. 10</td>
-<td>Ohio State 29, Purdue 22 (OT)</td>
-<td>6:00 p.m.</td>
-<td>Sunday, July 21</td>
-</tr>
-<tr>
-<td>No. 9</td>
-<td>Notre Dame 20, Stanford 13 (OT)</td>
-<td>N/A</td>
-<td>Will not be aired.</td>
-</tr>
-<tr>
-<td>No. 8</td>
-<td>Texas A&amp;M 59, Louisiana Tech 57</td>
-<td>9:00 p.m.</td>
-<td>Sunday, July 21</td>
-</tr>
-<tr>
-<td>No. 7</td>
-<td>Notre Dame 29, Pittsburgh 26 (OT)</td>
-<td>N/A</td>
-<td>Will not be aired.</td>
-</tr>
-<tr>
-<td>No. 6</td>
-<td>Clemson 25, LSU 24</td>
-<td>3:00 p.m.</td>
-<td>Saturday, July 27</td>
-</tr>
-<tr>
-<td>No. 5</td>
-<td>No. 5 – TBD</td>
-<td>6:00 p.m.</td>
-<td>Saturday, July 27</td>
-</tr>
-<tr>
-<td>No. 4</td>
-<td>No. 4 – TBD</td>
-<td>9:00 p.m.</td>
-<td>Saturday, July 27</td>
-</tr>
-<tr>
-<td>No. 3</td>
-<td>No. 3 – TBD</td>
-<td>3:00 p.m.</td>
-<td>Sunday, July 28</td>
-</tr>
-<tr>
-<td>No. 2</td>
-<td>No. 2 – TBD</td>
-<td>6:00 p.m.</td>
-<td>Sunday, July 28</td>
-</tr>
-<tr>
-<td>No. 1</td>
-<td>No. 1 – TBD</td>
-<td>9:00 p.m.</td>
-<td>Sunday, July 28</td>
-</tr>
-</tbody>
-</table>
-<div class="feedflare">
-<a href="http://feeds.feedburner.com/~ff/fbschedulescom?a=QUQtgHwrg1M:QeK1JPb8GT8:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/fbschedulescom?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/fbschedulescom?a=QUQtgHwrg1M:QeK1JPb8GT8:dnMXMwOfBR0"><img src="http://feeds.feedburner.com/~ff/fbschedulescom?d=dnMXMwOfBR0" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/fbschedulescom?a=QUQtgHwrg1M:QeK1JPb8GT8:F7zBnMyn0Lo"><img src="http://feeds.feedburner.com/~ff/fbschedulescom?i=QUQtgHwrg1M:QeK1JPb8GT8:F7zBnMyn0Lo" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/fbschedulescom?a=QUQtgHwrg1M:QeK1JPb8GT8:V_sGLiPBpWU"><img src="http://feeds.feedburner.com/~ff/fbschedulescom?i=QUQtgHwrg1M:QeK1JPb8GT8:V_sGLiPBpWU" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/fbschedulescom?a=QUQtgHwrg1M:QeK1JPb8GT8:qj6IDK7rITs"><img src="http://feeds.feedburner.com/~ff/fbschedulescom?d=qj6IDK7rITs" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/fbschedulescom?a=QUQtgHwrg1M:QeK1JPb8GT8:gIN9vFwOqvQ"><img src="http://feeds.feedburner.com/~ff/fbschedulescom?i=QUQtgHwrg1M:QeK1JPb8GT8:gIN9vFwOqvQ" border="0"></img></a>
-</div><img src="http://feeds.feedburner.com/~r/fbschedulescom/~4/QUQtgHwrg1M" height="1" width="1"/>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:36:"http://wellformedweb.org/CommentAPI/";a:1:{s:10:"commentRss";a:1:{i:0;a:5:{s:4:"data";s:90:"http://www.fbschedules.com/2013/07/espn-to-air-top-25-college-football-games-of-2012/feed/";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:38:"http://purl.org/rss/1.0/modules/slash/";a:1:{s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:2:"16";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:42:"http://rssnamespace.org/feedburner/ext/1.0";a:1:{s:8:"origLink";a:1:{i:0;a:5:{s:4:"data";s:85:"http://www.fbschedules.com/2013/07/espn-to-air-top-25-college-football-games-of-2012/";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}}}s:44:"http://purl.org/rss/1.0/modules/syndication/";a:2:{s:12:"updatePeriod";a:1:{i:0;a:5:{s:4:"data";s:6:"hourly";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:15:"updateFrequency";a:1:{i:0;a:5:{s:4:"data";s:1:"1";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"link";a:2:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:3:"rel";s:4:"self";s:4:"type";s:19:"application/rss+xml";s:4:"href";s:42:"http://feeds.feedburner.com/fbschedulescom";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}i:1;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:2:{s:3:"rel";s:3:"hub";s:4:"href";s:32:"http://pubsubhubbub.appspot.com/";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:42:"http://rssnamespace.org/feedburner/ext/1.0";a:3:{s:4:"info";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:1:{s:3:"uri";s:14:"fbschedulescom";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:14:"emailServiceId";a:1:{i:0;a:5:{s:4:"data";s:14:"fbschedulescom";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:18:"feedburnerHostname";a:1:{i:0;a:5:{s:4:"data";s:28:"http://feedburner.google.com";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}}}}}}}}s:4:"type";i:128;s:7:"headers";a:10:{s:12:"content-type";s:23:"text/xml; charset=UTF-8";s:4:"etag";s:27:"3k81xKK4NG7yW6x8iMjvvg/fQvk";s:13:"last-modified";s:29:"Mon, 15 Jul 2013 22:48:42 GMT";s:16:"content-encoding";s:4:"gzip";s:4:"date";s:29:"Tue, 16 Jul 2013 00:03:42 GMT";s:7:"expires";s:29:"Tue, 16 Jul 2013 00:03:42 GMT";s:13:"cache-control";s:18:"private, max-age=0";s:22:"x-content-type-options";s:7:"nosniff";s:16:"x-xss-protection";s:13:"1; mode=block";s:6:"server";s:3:"GSE";}s:5:"build";s:14:"20121030175403";}
+</div><img src="http://feeds.feedburner.com/~r/fbschedulescom/~4/Reeg9tDxhoQ" height="1" width="1"/>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:36:"http://wellformedweb.org/CommentAPI/";a:1:{s:10:"commentRss";a:1:{i:0;a:5:{s:4:"data";s:86:"http://www.fbschedules.com/2013/07/report-penn-state-ucf-play-at-croke-park-2014/feed/";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:38:"http://purl.org/rss/1.0/modules/slash/";a:1:{s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:1:"7";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:42:"http://rssnamespace.org/feedburner/ext/1.0";a:1:{s:8:"origLink";a:1:{i:0;a:5:{s:4:"data";s:81:"http://www.fbschedules.com/2013/07/report-penn-state-ucf-play-at-croke-park-2014/";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}}}s:44:"http://purl.org/rss/1.0/modules/syndication/";a:2:{s:12:"updatePeriod";a:1:{i:0;a:5:{s:4:"data";s:6:"hourly";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:15:"updateFrequency";a:1:{i:0;a:5:{s:4:"data";s:1:"1";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"link";a:2:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:3:"rel";s:4:"self";s:4:"type";s:19:"application/rss+xml";s:4:"href";s:42:"http://feeds.feedburner.com/fbschedulescom";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}i:1;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:2:{s:3:"rel";s:3:"hub";s:4:"href";s:32:"http://pubsubhubbub.appspot.com/";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:42:"http://rssnamespace.org/feedburner/ext/1.0";a:3:{s:4:"info";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:1:{s:3:"uri";s:14:"fbschedulescom";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:14:"emailServiceId";a:1:{i:0;a:5:{s:4:"data";s:14:"fbschedulescom";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:18:"feedburnerHostname";a:1:{i:0;a:5:{s:4:"data";s:28:"http://feedburner.google.com";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}}}}}}}}s:4:"type";i:128;s:7:"headers";a:10:{s:12:"content-type";s:23:"text/xml; charset=UTF-8";s:4:"etag";s:27:"kNfoZSd5OLlsyY43CrDA420YoT8";s:13:"last-modified";s:29:"Wed, 17 Jul 2013 02:41:11 GMT";s:16:"content-encoding";s:4:"gzip";s:4:"date";s:29:"Wed, 17 Jul 2013 03:00:37 GMT";s:7:"expires";s:29:"Wed, 17 Jul 2013 03:00:37 GMT";s:13:"cache-control";s:18:"private, max-age=0";s:22:"x-content-type-options";s:7:"nosniff";s:16:"x-xss-protection";s:13:"1; mode=block";s:6:"server";s:3:"GSE";}s:5:"build";s:14:"20121030175403";}

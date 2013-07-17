@@ -10,7 +10,7 @@ include_once('idn/idna_convert.class.php');
 foreach ($selector as $label => $url) {
     $selector[$label] = new SimplePie();
     $selector[$label]->set_feed_url($url);
-    $selector[$label]->strip_htmltags(array('img', 'embed','marquee','strong', 'div', 'b'));
+    $selector[$label]->strip_htmltags(array('img', 'embed','marquee','strong', 'div', 'b', 'i'));
     $selector[$label]->init();
     $selector[$label]->handle_content_type();
     $selector[$label]->enable_cache(true);

@@ -28,25 +28,21 @@ body {
 .category {
   float: left;
   margin: 30px 10px 0px 3%;
+  color: #ffffff;
+  font-size: 24px;
 }
 
-  .category a {
-    color: #ffffff;
-    font-size: 24px;
-    text-decoration: none;
-  }
-
-  .category a:hover {
+  .category:hover {
     color: #000000;
     font-size: 24px;
+    cursor: pointer;
   }
+
 
 #holder {
   margin: 0 auto;
   width: 1560px;
   overflow: auto;
-  border-style:solid;
-  border-color:red;
 }
 
 .format {
