@@ -58,7 +58,15 @@ foreach ($selector as $label => $url):
     <?php echo $title;?>
     </a></h2>
             <!--<p><?php echo $item->get_description(); ?></p>-->
-            <p><small>Posted on <?php echo $item->get_date('F j Y | g:i a'); ?></small></p>
+            <p><small>Posted on 
+                <?php 
+                if ($item->get_date('F j Y | g:i a') == null) {
+                    echo "Hackers News";
+                }
+                else {
+                    echo $item->get_date('F j Y | g:i a');
+                }
+                 ?></small></p>
         </div>
  
     <?php endforeach; ?>
