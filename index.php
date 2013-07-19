@@ -4,6 +4,7 @@
 <link rel="stylesheet" type="text/css" href="main.css">
 <script src="http://code.jquery.com/jquery-1.10.1.min.js"></script>
 <link href='http://fonts.googleapis.com/css?family=Carrois+Gothic' rel='stylesheet' type='text/css'>
+<link rel="icon" href="favicon.ico" type="image/x-icon"/>
 </head>
 <body>
 <div id="nav">
