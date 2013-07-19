@@ -74,7 +74,7 @@ var technology = {
 
 }
 
-var life = {
+var leisure = {
 	"Lifehacker":'http://feeds.gawker.com/lifehacker/full', 
 	"Hack a Day":'http://feeds2.feedburner.com/hackaday/LgoM',
 	"AoM": 'http://feeds.feedburner.com/TheArtOfManliness?format=xml',

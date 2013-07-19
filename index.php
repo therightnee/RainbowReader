@@ -11,21 +11,22 @@
 	<div class="category" id="news">News</div>
 	<div class="category" id="sports">Sports</div>
 	<div class="category" id="tech">Technology</div>
-	<div class="category" id="life">Life</div>
+	<div class="category" id="leisure">Leisure</div>
 	<div class="category" id="music">Music</div>
 	<div class="category" id="religion">Religion</div>
 	<div class="category" id="business">Business</div>
 </div>
 <div id="holder">
+    <h1>Loading...</h1>
 </div>
 <script src="rss_feeds.js"></script>
 <script>
 
 //Store all the feeds into a singular array
 
-var categories = [news, sports, technology, life, music, religion, business];
+var categories = [news, sports, technology, leisure, music, religion, business];
 
-var tracker = 0;
+var tracker = 7;
 
 //Request Function handles the AJAX request
 
@@ -50,6 +51,7 @@ $.ajax({
 //Keyboard Navigation Section
 
 $("body").keydown(function(e) {
+  var previous = tracker;
   if(e.keyCode == 37) { // left
   	if (tracker == 0) {
   		tracker = 6
@@ -59,7 +61,7 @@ $("body").keydown(function(e) {
   		tracker -= 1
   	}
   request(tracker, 1)
-  cssmod();
+  cssmod(previous);
   }
   else if(e.keyCode == 39) { // right
   	$("#holder").empty();
@@ -71,7 +73,7 @@ $("body").keydown(function(e) {
   		tracker += 1
   	}
   request(tracker, 1)
-  cssmod();
+  cssmod(previous);
   }
 });
 
@@ -85,6 +87,8 @@ $(".category").click(function() {
 
 function match(word) {
 
+var previous = tracker;
+
 if (word == "news"){
   tracker = 0;
 };
@@ -94,7 +98,7 @@ if (word == "sports"){
 if (word == "tech"){
   tracker = 2;
 };
-if (word == "life"){
+if (word == "leisure"){
   tracker = 3;
 };
 if (word == "music"){
@@ -107,25 +111,92 @@ if (word == "business"){
   tracker = 6;
 };
   request(tracker, 1);
-  cssmod();
+  cssmod(previous);
+};
+
+//CSS mods based on section
+
+
+function cssmod(previous) {
+if (tracker == 0){
+  $(".format").width("116px");
+  $("#holder").width("1560px");  
+  $("#nav").css("background-color", "#e74c3c");
+  $("#news").css("border-bottom", "5px solid #ffffff");
+//This to change the url to match the current section
+  window.location.replace("index.php#current=news");
+};
+if (tracker == 1){
+  $(".format").width("250px");
+  $("#holder").width("1160px");  
+  $("#nav").css("background-color", "#f39c12");
+  $("#sports").css("border-bottom", "5px solid #ffffff");
+  window.location.replace("index.php#current=sports");
+};
+if (tracker == 2){
+  $(".format").width("116px");
+  $("#holder").width("1560px");  
+  $("#nav").css("background-color", "#F1C319");
+  $("#tech").css("border-bottom", "5px solid #ffffff");
+  window.location.replace("index.php#current=tech");
+};
+if (tracker == 3){
+  $(".format").width("200px");
+  $("#holder").width("1440px");  
+  $("#nav").css("background-color", "#2ecc71");
+  $("#leisure").css("border-bottom", "5px solid #ffffff");
+  window.location.replace("index.php#current=leisure");
+};
+if (tracker == 4){
+  $(".format").width("250px");
+  $("#holder").width("1160px");  
+  $("#nav").css("background-color", "#3498db");
+  $("#music").css("border-bottom", "5px solid #ffffff");
+  window.location.replace("index.php#current=music");
+};
+if (tracker == 5){
+  $(".format").width("250px");
+  $("#holder").width("1160px");  
+  $("#nav").css("background-color", "#34495e");
+  $("#religion").css("border-bottom", "5px solid #ffffff");
+  window.location.replace("index.php#current=religion");
+};
+if (tracker == 6){
+  $(".format").width("180px");
+  $("#holder").width("1540px");  
+  $("#nav").css("background-color", "#8e44ad");
+  $("#business").css("border-bottom", "5px solid #ffffff");
+  window.location.replace("index.php#current=business");
+};
+
+if (previous != 7) {
+  var list = ["#news", "#sports", "#tech", "#leisure", "#music", "#religion", "#business"];
+  $(list[previous]).css("border-bottom", "")
+
+}
+
 };
 
 //Initiate the page
 
 $(document).ready(function () {
 
+  if (location.href == "http://" + location.hostname + "/") {
+    window.location = "/index.php#current=news";
+  }
+
 starter = window.location.href.split("=");
 
 match(starter[1])
 
 reload();
-cssmod();
+cssmod(7);
 
 });
 
 //Reload every 10 minutes
 setInterval(function(){
-	reload();
+  reload();
 }, 60000);
 
 //Reload function regenerates the cache every 10 minutes
@@ -134,61 +205,6 @@ function reload() {
   for (var i=0;i<categories.length;i++) {
     request(i, 0);
   };
-};
-
-//CSS mods based on section
-
-
-function cssmod() {
-if (tracker == 0){
-  $(".format").width("116px");
-  $("#holder").width("1560px");  
-  $("#nav").css("background-color", "#e74c3c");
-//This to change the url to match the current section
-  window.location.replace("index.php#current=news");
-};
-if (tracker == 1){
-  $(".format").width("250px");
-  $("#holder").width("1160px");  
-  $("#nav").css("background-color", "#f39c12");
-
-  window.location.replace("index.php#current=sports");
-};
-if (tracker == 2){
-  $(".format").width("116px");
-  $("#holder").width("1560px");  
-  $("#nav").css("background-color", "#F1C319");
-
-  window.location.replace("index.php#current=tech");
-};
-if (tracker == 3){
-  $(".format").width("200px");
-  $("#holder").width("1440px");  
-  $("#nav").css("background-color", "#2ecc71");
-
-  window.location.replace("index.php#current=life");
-};
-if (tracker == 4){
-  $(".format").width("250px");
-  $("#holder").width("1160px");  
-  $("#nav").css("background-color", "#3498db");
-
-  window.location.replace("index.php#current=music");
-};
-if (tracker == 5){
-  $(".format").width("250px");
-  $("#holder").width("1160px");  
-  $("#nav").css("background-color", "#34495e");
-
-  window.location.replace("index.php#current=religion");
-};
-if (tracker == 6){
-  $(".format").width("180px");
-  $("#holder").width("1540px");  
-  $("#nav").css("background-color", "#8e44ad");
-
-  window.location.replace("index.php#current=business");
-};
 };
 
 </script>

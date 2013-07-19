@@ -21,7 +21,126 @@ a:4:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:3:"
 		
 		
 		
-	";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:4:{s:0:"";a:7:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:10:"CSS-Tricks";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:21:"http://css-tricks.com";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:61:"Tips, Tricks, and Techniques on using Cascading Style Sheets.";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:13:"lastBuildDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Wed, 17 Jul 2013 00:33:58 +0000";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"language";a:1:{i:0;a:5:{s:4:"data";s:5:"en-US";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:9:"generator";a:1:{i:0;a:5:{s:4:"data";s:29:"http://wordpress.org/?v=3.5.2";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"item";a:10:{i:0;a:6:{s:4:"data";s:42:"
+	";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:4:{s:0:"";a:7:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:10:"CSS-Tricks";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:21:"http://css-tricks.com";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:61:"Tips, Tricks, and Techniques on using Cascading Style Sheets.";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:13:"lastBuildDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Thu, 18 Jul 2013 14:17:03 +0000";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"language";a:1:{i:0;a:5:{s:4:"data";s:5:"en-US";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:9:"generator";a:1:{i:0;a:5:{s:4:"data";s:29:"http://wordpress.org/?v=3.5.2";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"item";a:10:{i:0;a:6:{s:4:"data";s:42:"
+		
+		
+		
+		
+		
+				
+
+		
+		
+				
+			
+		
+		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:5:{s:0:"";a:7:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:28:"How Web Tech Concerns Change";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:51:"http://css-tricks.com/how-web-tech-concerns-change/";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:60:"http://css-tricks.com/how-web-tech-concerns-change/#comments";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Thu, 18 Jul 2013 14:17:03 +0000";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:7:"Article";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:30:"http://css-tricks.com/?p=22442";s:7:"attribs";a:1:{s:0:"";a:1:{s:11:"isPermaLink";s:5:"false";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:688:"<p><p>As a beginner in any specific web tech, your first concern is "what is this and how does it work?" As you level up, those concerns change. You may still learn about about how it works as you dive deeper, but other concerns will emerge the more you know, the more you use it, and the more work of others you are exposed to.</p>
+<p></p>
+<p></p>
+CSS
+<h4>Beginner</h4>
+<ul>
+<li>How do I make stuff look how I want?</li>
+</ul>
+<h4>Intermediate</h4>
+<ul>
+<li>How can I keep </li>&#8230;</ul></p><p><hr />
+
+<p><small><a href="http://css-tricks.com/how-web-tech-concerns-change/">How Web Tech Concerns Change</a> is a post from <a href="http://css-tricks.com">CSS-Tricks</a></small></p></p>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:12:"Chris Coyier";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:40:"http://purl.org/rss/1.0/modules/content/";a:1:{s:7:"encoded";a:1:{i:0;a:5:{s:4:"data";s:3290:"<p>As a beginner in any specific web tech, your first concern is "what is this and how does it work?" As you level up, those concerns change. You may still learn about about how it works as you dive deeper, but other concerns will emerge the more you know, the more you use it, and the more work of others you are exposed to.</p>
+<p><span id="more-22442"></span></p>
+<p><img src='http://cdn.css-tricks.com/wp-content/uploads/2013/07/zero-to-hero.jpg' alt=''></p>
+<h3>CSS</h3>
+<h4>Beginner</h4>
+<ul>
+<li>How do I make stuff look how I want?</li>
+</ul>
+<h4>Intermediate</h4>
+<ul>
+<li>How can I keep this under control?</li>
+<li>Can/should I <em>use</em> frameworks/libraries?</li>
+<li>How do I deal with cross-browser problems?</li>
+<li>Should I be using a preprocessor?</li>
+</ul>
+<h4>Expert</h4>
+<ul>
+<li>How can I write less of this?</li>
+<li>Can/should I <em>create</em> frameworks/libraries?</li>
+<li>Is testing possible?</li>
+<li>How can I improve the tooling?</li>
+</ul>
+<h3>JavaScript</h3>
+<h4>Beginner</h4>
+<ul>
+<li>How do I make stuff happen?</li>
+</ul>
+<h4>Intermediate</h4>
+<ul>
+<li>How can I organize this?</li>
+<li>What are the best practices regarding speed and efficiency?</li>
+<li>What jobs are best left to other web tech?</li>
+</ul>
+<h4>Expert</h4>
+<ul>
+<li>How can I write less of this?</li>
+<li>Are Preprocessors appropriate for this?</li>
+<li>How can I keep this really fast?</li>
+<li>How does a team write this?</li>
+<li>How do we make less mistakes?</li>
+</ul>
+<h3>HTML</h3>
+<h4>Beginner</h4>
+<ul>
+<li>What tags do I use for what?</li>
+</ul>
+<h4>Intermediate</h4>
+<ul>
+<li>How can I write this really efficiently?</li>
+<li>Am I being as semantic as I can be?</li>
+<li>Am I being as accessible as I can be?</li>
+</ul>
+<h4>Expert</h4>
+<ul>
+<li>What tags do I use for what? lol.</li>
+</ul>
+<h3>Back End Languages</h3>
+<h4>Beginner</h4>
+<ul>
+<li>What is the syntax?</li>
+<li>How do I perform basic loops and logic?</li>
+</ul>
+<h4>Intermediate</h4>
+<ul>
+<li>How do I organize this?</li>
+</ul>
+<h4>Expert</h4>
+<ul>
+<li>How can I keep this fast?</li>
+<li>How can I keep this secure?</li>
+<li>Am I using the right languages for the right jobs?</li>
+</ul>
+<h3>Databases</h3>
+<h4>Beginner</h4>
+<ul>
+<li>How can I store and get stuff?</li>
+</ul>
+<h4>Intermediate</h4>
+<ul>
+<li>How do I structure this intelligently?</li>
+</ul>
+<h4>Expert</h4>
+<ul>
+<li>How can I scale this?</li>
+<li>How can I predict our future needs?</li>
+<li>What types of databases are right for what kind of data?</li>
+</ul>
+<h3>What does it mean?</h3>
+<p>I'm not sure exactly. It's just interesting to think about. Here's some maybes:</p>
+<p>From an education perspective it would be interesting to know how many people there are out there at each level and how interested they are in getting help on those questions.</p>
+<p>From a hiring perspective it may help identify the relative skill level of hires by seeing what kind of things they are concerned about at the moment in a particular area.</p>
+<p>From a self improvement perspective it may help you understand what is in store for you as you level up. </p>
+<p><hr />
+
+<p><small><a href="http://css-tricks.com/how-web-tech-concerns-change/">How Web Tech Concerns Change</a> is a post from <a href="http://css-tricks.com">CSS-Tricks</a></small></p></p>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:36:"http://wellformedweb.org/CommentAPI/";a:1:{s:10:"commentRss";a:1:{i:0;a:5:{s:4:"data";s:56:"http://css-tricks.com/how-web-tech-concerns-change/feed/";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:38:"http://purl.org/rss/1.0/modules/slash/";a:1:{s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:1:"1";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:1;a:6:{s:4:"data";s:42:"
 		
 		
 		
@@ -51,7 +170,7 @@ a:4:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:3:"
 <p>Let's take it to a poll! It's over in the sidebar.</p>
 <p><hr />
 
-<p><small><a href="http://css-tricks.com/new-poll-does-offscreen-drawer-nav-work-for-desktop-too/">New Poll: Does Offscreen / Drawer Nav Work for Desktop Too?</a> is a post from <a href="http://css-tricks.com">CSS-Tricks</a></small></p></p>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:36:"http://wellformedweb.org/CommentAPI/";a:1:{s:10:"commentRss";a:1:{i:0;a:5:{s:4:"data";s:83:"http://css-tricks.com/new-poll-does-offscreen-drawer-nav-work-for-desktop-too/feed/";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:38:"http://purl.org/rss/1.0/modules/slash/";a:1:{s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:2:"25";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:1;a:6:{s:4:"data";s:42:"
+<p><small><a href="http://css-tricks.com/new-poll-does-offscreen-drawer-nav-work-for-desktop-too/">New Poll: Does Offscreen / Drawer Nav Work for Desktop Too?</a> is a post from <a href="http://css-tricks.com">CSS-Tricks</a></small></p></p>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:36:"http://wellformedweb.org/CommentAPI/";a:1:{s:10:"commentRss";a:1:{i:0;a:5:{s:4:"data";s:83:"http://css-tricks.com/new-poll-does-offscreen-drawer-nav-work-for-desktop-too/feed/";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:38:"http://purl.org/rss/1.0/modules/slash/";a:1:{s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:2:"39";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:2;a:6:{s:4:"data";s:42:"
 		
 		
 		
@@ -79,7 +198,7 @@ a:4:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:3:"
 <p>Normally I let polls run a little longer but I have another idea ready so look for a new poll in the next day or so.</p>
 <p><hr />
 
-<p><small><a href="http://css-tricks.com/poll-results-light-on-dark-is-preferred/">Poll Results: Light-on-Dark is Preferred</a> is a post from <a href="http://css-tricks.com">CSS-Tricks</a></small></p></p>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:36:"http://wellformedweb.org/CommentAPI/";a:1:{s:10:"commentRss";a:1:{i:0;a:5:{s:4:"data";s:67:"http://css-tricks.com/poll-results-light-on-dark-is-preferred/feed/";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:38:"http://purl.org/rss/1.0/modules/slash/";a:1:{s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:2:"26";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:2;a:6:{s:4:"data";s:42:"
+<p><small><a href="http://css-tricks.com/poll-results-light-on-dark-is-preferred/">Poll Results: Light-on-Dark is Preferred</a> is a post from <a href="http://css-tricks.com">CSS-Tricks</a></small></p></p>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:36:"http://wellformedweb.org/CommentAPI/";a:1:{s:10:"commentRss";a:1:{i:0;a:5:{s:4:"data";s:67:"http://css-tricks.com/poll-results-light-on-dark-is-preferred/feed/";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:38:"http://purl.org/rss/1.0/modules/slash/";a:1:{s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:2:"31";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:3;a:6:{s:4:"data";s:42:"
 		
 		
 		
@@ -100,7 +219,7 @@ a:4:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:3:"
 <p>Source Maps requires Sass 3.3 which is in Alpha and and doesn't work with Compass <a href="https://twitter.com/chriseppstein/status/355069481069985794">yet</a>.</p>
 <p><a href="http://benfrain.com/add-sass-compass-debug-info-for-chrome-web-developer-tools/" title="Direct link to featured article">Direct Link to Article</a> &#8212; <a href="http://css-tricks.com/sass-dev-tools-workflow/">Permalink</a></p><p><hr />
 
-<p><small><a href="http://css-tricks.com/sass-dev-tools-workflow/">Sass + Dev Tools Workflow</a> is a post from <a href="http://css-tricks.com">CSS-Tricks</a></small></p></p>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:36:"http://wellformedweb.org/CommentAPI/";a:1:{s:10:"commentRss";a:1:{i:0;a:5:{s:4:"data";s:51:"http://css-tricks.com/sass-dev-tools-workflow/feed/";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:38:"http://purl.org/rss/1.0/modules/slash/";a:1:{s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:1:"0";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:3;a:6:{s:4:"data";s:42:"
+<p><small><a href="http://css-tricks.com/sass-dev-tools-workflow/">Sass + Dev Tools Workflow</a> is a post from <a href="http://css-tricks.com">CSS-Tricks</a></small></p></p>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:36:"http://wellformedweb.org/CommentAPI/";a:1:{s:10:"commentRss";a:1:{i:0;a:5:{s:4:"data";s:51:"http://css-tricks.com/sass-dev-tools-workflow/feed/";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:38:"http://purl.org/rss/1.0/modules/slash/";a:1:{s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:1:"0";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:4;a:6:{s:4:"data";s:42:"
 		
 		
 		
@@ -119,7 +238,7 @@ a:4:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:3:"
 <p><small><a href="http://css-tricks.com/easier-aspect-ratio-elements/">Easier Aspect Ratio Elements</a> is a post from <a href="http://css-tricks.com">CSS-Tricks</a></small></p></p>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:12:"Chris Coyier";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:40:"http://purl.org/rss/1.0/modules/content/";a:1:{s:7:"encoded";a:1:{i:0;a:5:{s:4:"data";s:711:"<p>Nice writeup by Marc Hinse. It's similar to <a href="http://daverupert.com/2012/04/uncle-daves-ol-padded-box/">Uncle Dave's Ol' Padded Box</a>, except the percentage padding-bottom is moved to a pseudo element where it doesn't need to be adjusted when the width value changes.</p>
 <p><a href="http://www.mademyday.de/css-height-equals-width-with-pure-css.html" title="Direct link to featured article">Direct Link to Article</a> &#8212; <a href="http://css-tricks.com/easier-aspect-ratio-elements/">Permalink</a></p><p><hr />
 
-<p><small><a href="http://css-tricks.com/easier-aspect-ratio-elements/">Easier Aspect Ratio Elements</a> is a post from <a href="http://css-tricks.com">CSS-Tricks</a></small></p></p>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:36:"http://wellformedweb.org/CommentAPI/";a:1:{s:10:"commentRss";a:1:{i:0;a:5:{s:4:"data";s:56:"http://css-tricks.com/easier-aspect-ratio-elements/feed/";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:38:"http://purl.org/rss/1.0/modules/slash/";a:1:{s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:1:"0";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:4;a:6:{s:4:"data";s:42:"
+<p><small><a href="http://css-tricks.com/easier-aspect-ratio-elements/">Easier Aspect Ratio Elements</a> is a post from <a href="http://css-tricks.com">CSS-Tricks</a></small></p></p>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:36:"http://wellformedweb.org/CommentAPI/";a:1:{s:10:"commentRss";a:1:{i:0;a:5:{s:4:"data";s:56:"http://css-tricks.com/easier-aspect-ratio-elements/feed/";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:38:"http://purl.org/rss/1.0/modules/slash/";a:1:{s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:1:"0";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:5;a:6:{s:4:"data";s:42:"
 		
 		
 		
@@ -138,7 +257,7 @@ a:4:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:3:"
 <p><small><a href="http://css-tricks.com/if-kerouac-wrote-javascript/">If Kerouac wrote JavaScript</a> is a post from <a href="http://css-tricks.com">CSS-Tricks</a></small></p></p>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:12:"Chris Coyier";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:40:"http://purl.org/rss/1.0/modules/content/";a:1:{s:7:"encoded";a:1:{i:0;a:5:{s:4:"data";s:761:"<blockquote><p>When I opened Johnson’s completed assignment, I found a short note from the good doctor, explaining why he had chosen to use CoffeeScript: “Sir, the funcktion key-word is an ALBATROSS and the curly brace is worthless FILIGREE. I desire a clean and artickulate script for the dockumenting of my varied MUSINGS”.</p></blockquote>
 <p><a href="http://blog.anguscroll.com/if-kerouac-wrote-javascript" title="Direct link to featured article">Direct Link to Article</a> &#8212; <a href="http://css-tricks.com/if-kerouac-wrote-javascript/">Permalink</a></p><p><hr />
 
-<p><small><a href="http://css-tricks.com/if-kerouac-wrote-javascript/">If Kerouac wrote JavaScript</a> is a post from <a href="http://css-tricks.com">CSS-Tricks</a></small></p></p>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:36:"http://wellformedweb.org/CommentAPI/";a:1:{s:10:"commentRss";a:1:{i:0;a:5:{s:4:"data";s:55:"http://css-tricks.com/if-kerouac-wrote-javascript/feed/";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:38:"http://purl.org/rss/1.0/modules/slash/";a:1:{s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:1:"0";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:5;a:6:{s:4:"data";s:42:"
+<p><small><a href="http://css-tricks.com/if-kerouac-wrote-javascript/">If Kerouac wrote JavaScript</a> is a post from <a href="http://css-tricks.com">CSS-Tricks</a></small></p></p>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:36:"http://wellformedweb.org/CommentAPI/";a:1:{s:10:"commentRss";a:1:{i:0;a:5:{s:4:"data";s:55:"http://css-tricks.com/if-kerouac-wrote-javascript/feed/";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:38:"http://purl.org/rss/1.0/modules/slash/";a:1:{s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:1:"0";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:6;a:6:{s:4:"data";s:42:"
 		
 		
 		
@@ -159,7 +278,7 @@ a:4:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:3:"
 <p>I already have several big ideas to make it better, so we'll just keep trucking along there. If you see something incorrect in there, just leave a comment. I'll see it and fix it.</p>
 <p><hr />
 
-<p><small><a href="http://css-tricks.com/the-almanac-is-complete/">The Almanac is &#8220;Complete&#8221;</a> is a post from <a href="http://css-tricks.com">CSS-Tricks</a></small></p></p>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:36:"http://wellformedweb.org/CommentAPI/";a:1:{s:10:"commentRss";a:1:{i:0;a:5:{s:4:"data";s:51:"http://css-tricks.com/the-almanac-is-complete/feed/";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:38:"http://purl.org/rss/1.0/modules/slash/";a:1:{s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:2:"29";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:6;a:6:{s:4:"data";s:42:"
+<p><small><a href="http://css-tricks.com/the-almanac-is-complete/">The Almanac is &#8220;Complete&#8221;</a> is a post from <a href="http://css-tricks.com">CSS-Tricks</a></small></p></p>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:36:"http://wellformedweb.org/CommentAPI/";a:1:{s:10:"commentRss";a:1:{i:0;a:5:{s:4:"data";s:51:"http://css-tricks.com/the-almanac-is-complete/feed/";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:38:"http://purl.org/rss/1.0/modules/slash/";a:1:{s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:2:"34";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:7;a:6:{s:4:"data";s:42:"
 		
 		
 		
@@ -355,7 +474,7 @@ $treehouse-hard: #fa9300 2.61%, #66c9ee 4.35%, #c9c9c9 6.96%, #82b964 9.13%, #d2
 <p>If you feel like you could make the code easier, please be sure to tell! Thanks for reading. :)</p>
 <p><hr />
 
-<p><small><a href="http://css-tricks.com/striped-background-gradients/">Create Striped Backgrounds With Gradients (and a Sass Function)</a> is a post from <a href="http://css-tricks.com">CSS-Tricks</a></small></p></p>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:36:"http://wellformedweb.org/CommentAPI/";a:1:{s:10:"commentRss";a:1:{i:0;a:5:{s:4:"data";s:56:"http://css-tricks.com/striped-background-gradients/feed/";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:38:"http://purl.org/rss/1.0/modules/slash/";a:1:{s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:2:"28";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:7;a:6:{s:4:"data";s:42:"
+<p><small><a href="http://css-tricks.com/striped-background-gradients/">Create Striped Backgrounds With Gradients (and a Sass Function)</a> is a post from <a href="http://css-tricks.com">CSS-Tricks</a></small></p></p>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:36:"http://wellformedweb.org/CommentAPI/";a:1:{s:10:"commentRss";a:1:{i:0;a:5:{s:4:"data";s:56:"http://css-tricks.com/striped-background-gradients/feed/";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:38:"http://purl.org/rss/1.0/modules/slash/";a:1:{s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:2:"28";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:8;a:6:{s:4:"data";s:42:"
 		
 		
 		
@@ -656,7 +775,7 @@ Basic Usage
 <p>I would love to hear all your thoughts on extend. If you use it, how you use it, other problems you've found, how you imagine it working natively, etc.</p>
 <p><hr />
 
-<p><small><a href="http://css-tricks.com/the-extend-concept/">The Extend Concept</a> is a post from <a href="http://css-tricks.com">CSS-Tricks</a></small></p></p>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:36:"http://wellformedweb.org/CommentAPI/";a:1:{s:10:"commentRss";a:1:{i:0;a:5:{s:4:"data";s:46:"http://css-tricks.com/the-extend-concept/feed/";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:38:"http://purl.org/rss/1.0/modules/slash/";a:1:{s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:2:"32";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:8;a:6:{s:4:"data";s:42:"
+<p><small><a href="http://css-tricks.com/the-extend-concept/">The Extend Concept</a> is a post from <a href="http://css-tricks.com">CSS-Tricks</a></small></p></p>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:36:"http://wellformedweb.org/CommentAPI/";a:1:{s:10:"commentRss";a:1:{i:0;a:5:{s:4:"data";s:46:"http://css-tricks.com/the-extend-concept/feed/";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:38:"http://purl.org/rss/1.0/modules/slash/";a:1:{s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:2:"32";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:9;a:6:{s:4:"data";s:42:"
 		
 		
 		
@@ -694,55 +813,4 @@ Basic Usage
 <p>Here's to another year!</p>
 <p><hr />
 
-<p><small><a href="http://css-tricks.com/the-sixth-fourth/">The Sixth Fourth</a> is a post from <a href="http://css-tricks.com">CSS-Tricks</a></small></p></p>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:36:"http://wellformedweb.org/CommentAPI/";a:1:{s:10:"commentRss";a:1:{i:0;a:5:{s:4:"data";s:44:"http://css-tricks.com/the-sixth-fourth/feed/";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:38:"http://purl.org/rss/1.0/modules/slash/";a:1:{s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:2:"17";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:9;a:6:{s:4:"data";s:42:"
-		
-		
-		
-		
-		
-				
-
-		
-		
-				
-			
-		
-		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:5:{s:0:"";a:7:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:42:"Centering Percentage Width/Height Elements";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:64:"http://css-tricks.com/centering-percentage-widthheight-elements/";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:73:"http://css-tricks.com/centering-percentage-widthheight-elements/#comments";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Thu, 04 Jul 2013 00:47:59 +0000";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:7:"Article";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:30:"http://css-tricks.com/?p=22270";s:7:"attribs";a:1:{s:0:"";a:1:{s:11:"isPermaLink";s:5:"false";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:794:"<p><p>If you know the exact width/height of an element, you can center it smack dab in the middle of its parent element easily with <a href="http://css-tricks.com/quick-css-trick-how-to-center-an-object-exactly-in-the-center/">this classic trick</a>: top and left set to 50% and negative margins half the width and height of the element. That's great if you know the width and height of the element you're trying to center, but what if they are percentages?</p>
-<p></p>
-<p>You'd think you could just use negative percentage margins. That works for horizontal &#8230;</p></p><p><hr />
-
-<p><small><a href="http://css-tricks.com/centering-percentage-widthheight-elements/">Centering Percentage Width/Height Elements</a> is a post from <a href="http://css-tricks.com">CSS-Tricks</a></small></p></p>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:12:"Chris Coyier";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:40:"http://purl.org/rss/1.0/modules/content/";a:1:{s:7:"encoded";a:1:{i:0;a:5:{s:4:"data";s:2673:"<p>If you know the exact width/height of an element, you can center it smack dab in the middle of its parent element easily with <a href="http://css-tricks.com/quick-css-trick-how-to-center-an-object-exactly-in-the-center/">this classic trick</a>: top and left set to 50% and negative margins half the width and height of the element. That's great if you know the width and height of the element you're trying to center, but what if they are percentages?</p>
-<p><span id="more-22270"></span></p>
-<p>You'd think you could just use negative percentage margins. That works for horizontal margins, but margins are based on width (even vertical margins) so it breaks down when you try to use negative top margin to pull things into place.</p>
-<p><a href="http://css-tricks.com/centering-in-the-unknown/">There is a little trick</a> involving a "ghost" pseudo element and <a href="http://css-tricks.com/almanac/properties/d/display/#inline-block">inline-block</a>/<a href="http://css-tricks.com/almanac/properties/v/vertical-align/">vertical-align</a> that is pretty darn clever. But that requires the element you are centering to be inline-block and that's not a real common scenario. More likely you're trying to center something like a modal window right in the center. And with small screens / responsive design being big business, it's highly likely you'll want your dialog box to be of percentage width (or otherwise unknown like have just a max-width). </p>
-<p>There is a way! I saw this trick used by Mary Lou over at Codrops and her article/demo <a href="http://tympanus.net/codrops/2013/06/25/nifty-modal-window-effects/">Nifty Modal Window Effects</a>. </p>
-<p>Instead of using negative margins, you use negative <code>translate()</code> <a href="http://css-tricks.com/almanac/properties/t/transform/">transforms</a>. </p>
-<pre rel="CSS"><code class="language-css">.center {
-  position: absolute;
-  left: 50%;
-  top: 50%;
-  
-  /*
-  Nope =(
-  margin-left: -25%;
-  margin-top: -25%;
-  */
-
-  /* 
-  Yep!
-  */
-  transform: translate(-50%, -50%);
-  
-  /*
-  Not even necessary really. 
-  e.g. Height could be left out!
-  */
-  width: 40%;
-  height: 50%;
-}</code></pre>
-<p>Use whatever prefixes you need these days. </p>
-<p>There we are then:</p>
-<pre class="codepen" data-height="700" data-type="result" data-href="BvdgL" data-user="chriscoyier" data-safe="true"><code></code><a href="http://codepen.io/chriscoyier/pen/BvdgL">Check out this Pen!</a></pre>
-<p><hr />
-
-<p><small><a href="http://css-tricks.com/centering-percentage-widthheight-elements/">Centering Percentage Width/Height Elements</a> is a post from <a href="http://css-tricks.com">CSS-Tricks</a></small></p></p>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:36:"http://wellformedweb.org/CommentAPI/";a:1:{s:10:"commentRss";a:1:{i:0;a:5:{s:4:"data";s:69:"http://css-tricks.com/centering-percentage-widthheight-elements/feed/";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:38:"http://purl.org/rss/1.0/modules/slash/";a:1:{s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:2:"53";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}}}s:44:"http://purl.org/rss/1.0/modules/syndication/";a:2:{s:12:"updatePeriod";a:1:{i:0;a:5:{s:4:"data";s:6:"hourly";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:15:"updateFrequency";a:1:{i:0;a:5:{s:4:"data";s:1:"1";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"link";a:2:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:3:"rel";s:4:"self";s:4:"type";s:19:"application/rss+xml";s:4:"href";s:37:"http://feeds.feedburner.com/CssTricks";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}i:1;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:2:{s:3:"rel";s:3:"hub";s:4:"href";s:32:"http://pubsubhubbub.appspot.com/";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:42:"http://rssnamespace.org/feedburner/ext/1.0";a:3:{s:4:"info";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:1:{s:3:"uri";s:9:"csstricks";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:14:"emailServiceId";a:1:{i:0;a:5:{s:4:"data";s:9:"CssTricks";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:18:"feedburnerHostname";a:1:{i:0;a:5:{s:4:"data";s:28:"http://feedburner.google.com";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}}}}}}}}s:4:"type";i:128;s:7:"headers";a:10:{s:12:"content-type";s:23:"text/xml; charset=UTF-8";s:4:"etag";s:27:"xyTqmwXUpcKMhQoB8Sker6D1R5k";s:13:"last-modified";s:29:"Wed, 17 Jul 2013 02:13:08 GMT";s:16:"content-encoding";s:4:"gzip";s:4:"date";s:29:"Wed, 17 Jul 2013 03:07:13 GMT";s:7:"expires";s:29:"Wed, 17 Jul 2013 03:07:13 GMT";s:13:"cache-control";s:18:"private, max-age=0";s:22:"x-content-type-options";s:7:"nosniff";s:16:"x-xss-protection";s:13:"1; mode=block";s:6:"server";s:3:"GSE";}s:5:"build";s:14:"20121030175403";}
+<p><small><a href="http://css-tricks.com/the-sixth-fourth/">The Sixth Fourth</a> is a post from <a href="http://css-tricks.com">CSS-Tricks</a></small></p></p>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:36:"http://wellformedweb.org/CommentAPI/";a:1:{s:10:"commentRss";a:1:{i:0;a:5:{s:4:"data";s:44:"http://css-tricks.com/the-sixth-fourth/feed/";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:38:"http://purl.org/rss/1.0/modules/slash/";a:1:{s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:2:"17";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}}}s:44:"http://purl.org/rss/1.0/modules/syndication/";a:2:{s:12:"updatePeriod";a:1:{i:0;a:5:{s:4:"data";s:6:"hourly";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:15:"updateFrequency";a:1:{i:0;a:5:{s:4:"data";s:1:"1";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"link";a:2:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:3:"rel";s:4:"self";s:4:"type";s:19:"application/rss+xml";s:4:"href";s:37:"http://feeds.feedburner.com/CssTricks";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}i:1;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:2:{s:3:"rel";s:3:"hub";s:4:"href";s:32:"http://pubsubhubbub.appspot.com/";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:42:"http://rssnamespace.org/feedburner/ext/1.0";a:3:{s:4:"info";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:1:{s:3:"uri";s:9:"csstricks";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:14:"emailServiceId";a:1:{i:0;a:5:{s:4:"data";s:9:"CssTricks";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:18:"feedburnerHostname";a:1:{i:0;a:5:{s:4:"data";s:28:"http://feedburner.google.com";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}}}}}}}}s:4:"type";i:128;s:7:"headers";a:10:{s:12:"content-type";s:23:"text/xml; charset=UTF-8";s:4:"etag";s:27:"TtT1STVdLdqsgbJFNQGqewb6c0Y";s:13:"last-modified";s:29:"Thu, 18 Jul 2013 17:13:08 GMT";s:16:"content-encoding";s:4:"gzip";s:4:"date";s:29:"Thu, 18 Jul 2013 17:38:58 GMT";s:7:"expires";s:29:"Thu, 18 Jul 2013 17:38:58 GMT";s:13:"cache-control";s:18:"private, max-age=0";s:22:"x-content-type-options";s:7:"nosniff";s:16:"x-xss-protection";s:13:"1; mode=block";s:6:"server";s:3:"GSE";}s:5:"build";s:14:"20121030175403";}
